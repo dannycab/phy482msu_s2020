@@ -22,6 +22,8 @@ use_math: true
 ### Slack Team
 *This term we will be using Slack for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions, I encourage you to post your questions on there. Find our class page at: <https://phy482msuspring2020.slack.com>*
 
+[Join Slack](https://join.slack.com/t/phy482msuspring2020/shared_invite/enQtODgxMDM5Nzc2ODE3LWY0MzQ5MjRlZGU5NWEyNGZlNWUxYWYxYTQzZTc1ZTE5NTUzOGIzMmQ4N2RjNmQ0YmQ5NmJiNjdkN2Y0MjVjMmE)
+
 ## Overview
 
 Physics 482, Electricity and Magnetism 2, is the second semester of our
