@@ -5,7 +5,7 @@ permalink: index.html
 use_math: true
 ---
 
-## Electricity and Magnetism II Spring 2019
+## Electricity and Magnetism II Spring 2020
 [Course Learning Goals](./learning_goals.html)
 
 ### Contact Information
