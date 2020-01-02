@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>
+      
+        Physics 482
+      
+    </title>
+
+    <meta name="author" content="" />
+
+    <!-- Description -->
+    
+      <meta name="description" content="Website for Physics 482 - Electricity and Magnetism II at Michigan State University
+">
+    
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="/phy482msu_s2020/reveal.js/css/reveal.css"/>
+    
+      <link rel="stylesheet" href="/phy482msu_s2020/reveal.js/css/theme/white.css" id="theme"/>
+    
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="/phy482msu_s2020/reveal.js/lib/css/zenburn.css"/>
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '/phy482msu_s2020/reveal.js/css/print/pdf.css' : '/phy482msu_s2020/reveal.js/css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <link rel="apple-touch-icon" href="/phy482msu_s2020/apple-touch-icon.png" />
+
+    <link rel="canonical" href="http://localhost:4000/phy482msu_s2020/notes/23-slides.html">
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown="">
+
+You have this solution to Maxwell's equations in vacuum:
+
+$$\widetilde{\mathbf{E}}(x,y,z,t) = \widetilde{\mathbf{E}}_0 \exp\left[i\left(\mathbf{k}\cdot\mathbf{r} - \omega t\right)\right]$$
+
+If this wave travels in the $y$ direction, is polarized in the $x$ direction, and has a complex phase of 0, what is the $x$ component of the physical wave?
+
+1. $E_x = E_0 \ cos\left(kx-\omega t\right)$
+2. $E_x = E_0 \ cos\left(ky-\omega t\right)$
+3. $E_x = E_0 \ cos\left(kz-\omega t\right)$
+4. $E_x = E_0 \ cos\left(k_x x+k_y y-\omega t\right)$
+5. Something else
+
+Note:
+* Correct Answer: B
+
+</section>
+
+<section data-markdown="">
+
+The electric fields of two EM waves in vacuum are both described by:
+
+$$\mathbf{E} = E_0 \sin(kx-\omega t)\hat{y}$$
+
+The "wave number" $k$ of wave 1 is larger than that of wave 2, $k_1 &gt; k_2$. Which wave has the larger frequency $f$?
+
+1. Wave 1
+2. Wave 2
+3. impossible to tell
+
+Note:
+* Correct Answer: A
+* Same speed and thus wavelength of 1 is smaller, so frequency is higher
+
+</section>
+
+      </div>
+    </div>
+
+    <script src="/phy482msu_s2020/reveal.js/lib/js/head.min.js"></script>
+    <script src="/phy482msu_s2020/reveal.js/js/reveal.js"></script>
+    <script>
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        
+          transition: 'slide',
+        
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '/phy482msu_s2020/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: '/phy482msu_s2020/reveal.js/plugin/notes/notes.js', async: true },
+          { src: '/phy482msu_s2020/reveal.js/plugin/math/math.js', async: true }
+        ]
+      });
+
+    </script>
+
+  </body>
+</html>

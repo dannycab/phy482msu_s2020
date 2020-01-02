@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>
+      
+        Physics 482
+      
+    </title>
+
+    <meta name="author" content="" />
+
+    <!-- Description -->
+    
+      <meta name="description" content="Website for Physics 482 - Electricity and Magnetism II at Michigan State University
+">
+    
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="/phy482msu_s2020/reveal.js/css/reveal.css"/>
+    
+      <link rel="stylesheet" href="/phy482msu_s2020/reveal.js/css/theme/white.css" id="theme"/>
+    
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="/phy482msu_s2020/reveal.js/lib/css/zenburn.css"/>
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '/phy482msu_s2020/reveal.js/css/print/pdf.css' : '/phy482msu_s2020/reveal.js/css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <link rel="apple-touch-icon" href="/phy482msu_s2020/apple-touch-icon.png" />
+
+    <link rel="canonical" href="http://localhost:4000/phy482msu_s2020/notes/35-slides.html">
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown="">
+
+Consider a $S'$ frame moving with a speed $v$ in 1D with respect to a stationary frame $S$. Using your everyday intuition, write down the relationship between a position measurement $x$ and $x'$.
+
+*Be ready to explain why this makes sense to you.*
+
+Note:
+This is just to get them thinking about the Galilean transformation again as you will do this with gamma.
+
+</section>
+
+<section data-markdown="">
+
+The Galilean transformation between $S'$ and $S$ is:
+
+$$x = x' + vt$$
+
+The Lorentz transformation will introduce a $\gamma$, where do you think it goes? And why?
+
+Note:
+This is just to get them thinking. The time will dilate and the length with contract, so where does the gamma go? It ultimately multiples both.
+</section>
+
+<section data-markdown="">
+
+I'm in frame $S$, and you are in is in Frame $S'$, which moves with speed $V$ in the $+x$ direction.
+
+An object moves in the $S'$ frame in the $+x$ direction with speed $v'_x$.
+Do I measure its $x$ component of velocity to be $v_x = v'_x$?
+
+1. Yes
+2. No
+3. ???
+
+Note:
+* Correct Answer: B
+* can't be. because of time dilation and length contraction
+
+</section>
+
+<section data-markdown="">
+
+I'm in frame $S$, and you are in is in Frame $S'$, which moves with speed $V$ in the $+x$ direction.
+
+An object moves in the $S'$ frame in the $+y$ direction with speed $v'_y$.
+Do I measure its $y$ component of velocity to be $v_y = v'_y$?
+
+1. Yes
+2. No
+3. ???
+
+Note:
+* Correct Answer: B
+* again. can't be. because of time dilation and length contraction
+
+</section>
+
+<section data-markdown="">
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $v$ is very small compared to $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: D
+* denominator goes to 1 because second term is near zero - get back classical addition
+</section>
+
+<section data-markdown="">
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $u'$ is $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: B
+* plug it in and you will get c; if something moves with c it does so in every frame - constant speed of light
+</section>
+
+<section data-markdown="">
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $v$ is $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: B
+* if frame moves at c, all things move at c
+</section>
+
+      </div>
+    </div>
+
+    <script src="/phy482msu_s2020/reveal.js/lib/js/head.min.js"></script>
+    <script src="/phy482msu_s2020/reveal.js/js/reveal.js"></script>
+    <script>
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        
+          transition: 'slide',
+        
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '/phy482msu_s2020/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: '/phy482msu_s2020/reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: '/phy482msu_s2020/reveal.js/plugin/notes/notes.js', async: true },
+          { src: '/phy482msu_s2020/reveal.js/plugin/math/math.js', async: true }
+        ]
+      });
+
+    </script>
+
+  </body>
+</html>
