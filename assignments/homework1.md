@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 1 (Due. Jan 11)
+title: Homework 1 (Due. Jan 10)
 ---
 
 ## 1. Sketching
