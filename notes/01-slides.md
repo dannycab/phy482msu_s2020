@@ -67,6 +67,8 @@ Reminder: Homework is due on Fridays.
 ## This Week!!!
 
 * Homework 1 is already up (Due Fri. Jan. 10 at 5pm)
+* Submitted on gradescope.com
+
 * Read (seriously do this!)
   * Griffiths Ch 7.1.1-7.1.2 (Review? Chs 1-6)
 * [Download Anaconda distribution of Python](https://www.continuum.io/downloads)
@@ -89,7 +91,7 @@ Reminder: Homework is due on Fridays.
 
 ### Projects
 
-#### Individual Project (Mar. 1)
+#### Individual Project (Feb. 28)
 * Literature review of some interesting topic in E&M (4-5 pages)
 * Homework questions will support you on this
   * See syllabus for sample questions
@@ -102,7 +104,7 @@ Reminder: Homework is due on Fridays.
 
 ### Projects
 
-#### Pair Project (Apr 29)
+#### Pair Project (Apr. 28)
 * Poster presentation of an original contribution (theory and computation)
 * Homework questions will support you on this
   * See syllabus for sample questions
