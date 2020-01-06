@@ -54,11 +54,11 @@ Learning is a social and collaborative act!
 
 ### Homework Help Session
 
-**Evening session once per week (Location TBD)**
+**Once per week (Location TBD)**
 
 Question to you: When should we do this?
 
-Reminder: Homework is due on Fridays (expect this first one).
+Reminder: Homework is due on Fridays.
 
 </section>
 
