@@ -228,35 +228,3 @@ Note:
 * CORRECT ANSWER: B
 
 </section>
-
-<section data-markdown>
-
-You have a physical dipole, $+q$ and $-q$ a finite distance $d$ apart. When can you use the expression:
-
-$$V(\mathbf{r}) = \dfrac{1}{4 \pi \varepsilon_0}\sum_i \dfrac{q_i}{\mathfrak{R}_i}$$
-
-1. This is an exact expression everywhere.
-2. It's valid for large $r$
-3. It's valid for small $r$
-4. No idea...
-
-Note:
-* CORRECT ANSWER: A
-
-
-</section>
-
-<section data-markdown>
-
-Which charge distributions below produce a potential that looks like $\frac{C}{r^2}$ when you are far away?
-
-<img src="./images/multipole_charge_configs_1.png" align="center" style="width: 600px";/>
-
-E) None of these, or more than one of these!
-
-(For any which you did not select, how DO they behave at large r?)
-
-Note:
-* CORRECT ANSWER: E (Both C and D)
-
-</section>

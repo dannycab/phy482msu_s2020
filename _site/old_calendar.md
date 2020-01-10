@@ -251,24 +251,3 @@ We are likely to continue conservation laws next week.
 * [Homework 3 (Due Fri. Jan. 26)](./assignments/homework3.html)
 
 ---
-
-### Week 2 - Ohm's Law
-
-#### Pre-class Videos
-
-* [Ohm's Law](https://youtu.be/nu23mVB_sxQ)
-* [Comments on Ohm's Law](https://youtu.be/o4HUnXIed2c)
-* [Example: Resistance](https://youtu.be/xpQFCJzwpRE)
-
-#### Reading
-
-* Read Ch 7.1.1 and 7.1.2 for this week
-* Read [this paper on limitations of Ohm's Law](./papers/2009_Madsen_OhmLimitations.pdf)
-* Read Ch 7.2.1 and 7.2.2 for next week
-
-#### Notes and Homework
-
-* [Current and Ohm's Law - Handwritten](./notes/handwritten/01-Current_and_Ohms_Law.pdf)
-* [Homework 2 (Due Fri. Jan. 18)](./assignments/homework2.html)
-
----

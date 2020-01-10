@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 2 (Due. Jan 18)
+title: Homework 2 (Due. Jan 17)
 ---
 
 ## 1. An Electric Field that We Will Revisit

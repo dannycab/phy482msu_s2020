@@ -4,6 +4,54 @@ theme: white
 transition: slide
 ---
 
+<section data-markdown>
+
+You have a physical dipole, $+q$ and $-q$ a finite distance $d$ apart. When can you use the expression:
+
+$$V(\mathbf{r}) = \dfrac{1}{4 \pi \varepsilon_0}\sum_i \dfrac{q_i}{\mathfrak{R}_i}$$
+
+1. This is an exact expression everywhere.
+2. It's valid for large $r$
+3. It's valid for small $r$
+4. No idea...
+
+Note:
+* CORRECT ANSWER: A
+
+
+</section>
+
+
+<section data-markdown>
+
+## Announcements
+
+* Homework 1 due today at 5pm (using gradescope.com)
+  * Gradescope will let you turn in until Sunday at 5pm
+  * Last two questions turn in on Github
+* Quiz #1 - Next Friday
+  * Last 25 minutes of class
+  * No cheat sheets; all formulas will be provided
+  * Solve a Gauss' Law Problem with spherical symmetry
+  * Sketch a graph of the resulting electric field
+
+</section>
+
+<section data-markdown>
+
+Which charge distributions below produce a potential that looks like $\frac{C}{r^2}$ when you are far away?
+
+<img src="./images/multipole_charge_configs_1.png" align="center" style="width: 600px";/>
+
+E) None of these, or more than one of these!
+
+(For any which you did not select, how DO they behave at large r?)
+
+Note:
+* CORRECT ANSWER: E (Both C and D)
+
+</section>
+
 
 <section data-markdown>
 
@@ -13,22 +61,6 @@ A proton ($q=+e$) is released from rest in a uniform $\mathbf{E}$ and uniform $\
 
 Note:
 * CORRECT ANSWER: C
-</section>
-
-
-<section data-markdown>
-
-## Announcements
-
-* Homework 1 due today at 5pm
-  * After class put on my office
-  * Last two questions turn in on Github
-* Quiz #1 - Next Friday
-  * Last 20 minutes of class
-  * No cheat sheets; all formulas will be provided
-  * Solve a Gauss' Law Problem with cylindrical symmetry
-  * Sketch a graph of the resulting electric field
-
 </section>
 
 <section data-markdown>

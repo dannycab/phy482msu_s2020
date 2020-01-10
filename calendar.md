@@ -5,11 +5,30 @@ permalink: calendar.html
 use_math: true
 ---
 
+### Week 2 - Ohm's Law
 
+#### Pre-class Videos (for you if you want)
+
+* [Ohm's Law](https://youtu.be/nu23mVB_sxQ)
+* [Comments on Ohm's Law](https://youtu.be/o4HUnXIed2c)
+* [Example: Resistance](https://youtu.be/xpQFCJzwpRE)
+
+#### Reading
+
+* Read Ch 7.1.1 and 7.1.2 for this week
+* Read [this paper on limitations of Ohm's Law](./papers/2009_Madsen_OhmLimitations.pdf)
+* Read Ch 7.2.1 and 7.2.2 for next week
+
+#### Notes and Homework
+
+* [Current and Ohm's Law - Handwritten](./notes/handwritten/01-Current_and_Ohms_Law.pdf)
+* [Homework 2 (Due Fri. Jan. 17)](./assignments/homework2.html)
+
+---
 
 ### Week 1 - Review of Electrostatics and Magnetostatics
 
-#### Pre-class Videos
+#### Pre-class Videos (for you if you want)
 
 Videos for this week are just reminders of big ideas from 481
 
@@ -26,4 +45,4 @@ Videos for this week are just reminders of big ideas from 481
 
 #### Notes and Homework
 * [Lecture 1 (January 6th): Introduction to PHY 482 and Review](./notes/01-slides.html)
-* [Homework 1 (Due Fri. Jan. 11)](./assignments/homework1.html)
+* [Homework 1 (Due Fri. Jan. 10)](./assignments/homework1.html)
