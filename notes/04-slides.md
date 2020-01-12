@@ -22,15 +22,11 @@ Note:
 
 ## Announcements
 
-* Project homework will be graded tonight
+* Project homework is graded
   * Use GitHub Desktop to sync for feedback
-  * Please come see me ASAP if you need help with GitHub
-* Homework 2 posted; due Friday (Project HW due Monday)
-* Quiz 1 on Friday
-  * Last 20 minutes of class
-  * No cheat sheets; all formulas will be provided
-  * Solve a Gauss' Law Problem with cylindrical symmetry
-  * Sketch a graph of the resulting electric field
+  * Quite a few empty repositories...
+    * Please come see me ASAP if you need help with GitHub
+* Homework 2 posted; due Friday
 
 </section>
 
@@ -38,13 +34,14 @@ Note:
 
 ## MOAR Announcements
 
-* CUWiP this weekend!
-  * <https://perl.natsci.msu.edu/aps-cuwip-at-msu/>
-* PA Undergrad Brown Bag Lunch
-  * Tomorrow 12-1 in 1400 BPS
+* Quiz 1 on Friday (CU-WIP folks Thursday)
+  * Last 20 minutes of class
+  * No cheat sheets; all formulas will be provided
+  * Solve a Gauss' Law Problem with spherical symmetry
+  * Sketch a graph of the resulting electric field
+
 * Help session starts this week
-  * 6:15pm-7:15pm in 1300 BPS
-  * Room is available until 8pm
+  * 3-5pm (6pm?) in Help Room (Strosacker Center)
 
 </section>
 
