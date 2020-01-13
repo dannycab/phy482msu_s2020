@@ -22,7 +22,7 @@ Note:
 
 ## Announcements
 
-* Project homework is graded
+* Project homework is being graded (will finish tonight)
   * Use GitHub Desktop to sync for feedback
   * Quite a few empty repositories...
     * Please come see me ASAP if you need help with GitHub
@@ -42,6 +42,17 @@ Note:
 
 * Help session starts this week
   * 3-5pm (6pm?) in Help Room (Strosacker Center)
+
+</section>
+
+<section data-markdown>
+
+## Even MOAR
+
+* Procedure for tunring in paper HW
+  * Solve one problem per page(s) (full problem not parts)
+  * Scan as Black and White PDF (photos vary in quality; mobile apps can do this)
+  * We will grade at problem level (fewer uploads)
 
 </section>
 
