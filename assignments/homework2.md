@@ -53,7 +53,7 @@ $$\mathbf{A} = A_0 exp\left(-\frac{x^2+y^2}{a^2}\right)\hat{\mathbf{z}}$$
 3. If I stretch a given piece of copper wire, making it 0.1% longer, how much would this (roughly) change the resistance from end to end? (What assumptions are you making?)
 4. Suppose I connect two 1-mm diameter wires end to end, made of different materials, copper to gold.  When 10 A flows through the system, a thin layer of charge appears at the boundary.  Estimate the total charge that has accumulated at the boundary. What is the sign of the accumulated charge? What determines this sign? (Note: Griffiths Table 7.1 may be helpful here, and of course our usual boundary conditions, back in Griffiths Chapter 2.3.5)
 
-## 5. Speherical resistors
+## 5. Spherical resistors
 
 Resistors can take a number of forms, consider one constructed from two concentric metal spheres with a conducitng material filling the space between them. The spheres have radii $R_1$ and $R_2$ and the material has conductivity $\sigma$.
 
