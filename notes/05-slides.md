@@ -23,6 +23,13 @@ Note:
 
 <section data-markdown>
 
+<img src="./images/career_networking.png" align="center" style="width: 1000px";/>
+
+
+</section>
+
+<section data-markdown>
+
 **Activity:** Consider two spheres (radii $a$ and $b$ with $b$>$a$) that are constructed so that the larger one surrounds the smaller one. Between them is a material with conductivity $\sigma$. A potential difference of $V$ is maintained between them with the inner sphere at higher potential.
 
 * What is the current $I$ flowing between the spheres in terms of the known variables?

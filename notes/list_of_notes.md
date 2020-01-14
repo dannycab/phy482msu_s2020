@@ -16,3 +16,4 @@ permalink: notes/index.html
 * Lecture 2 (January 8th): Review II [[HTML]](./02-slides.html) [[PDF]](./02-slides.pdf)
 * Lecture 3 (January 10th): Review III [[HTML]](./03-slides.html) [[PDF]](./03-slides.pdf)
 * Lecture 4 (January 13th): Current [[HTML]](./04-slides.html) [[PDF]](./04-slides.pdf)
+* Lecture 5 (January 15th): Ohm's Law [[HTML]](./05-slides.html) [[PDF]](./05-slides.pdf)
