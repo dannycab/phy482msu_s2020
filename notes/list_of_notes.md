@@ -8,6 +8,7 @@ permalink: notes/index.html
 
 * [481 Review](http://dannycaballero.info/phy481msu_f2019/notes/index.html)
 * [01 - Current and Ohm's Law](./handwritten/01-Current_and_Ohms_Law.pdf)
+* [02 - Electromotive Force](./handwritten/02-EMF.pdf)
 
 
 ## Slides
