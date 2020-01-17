@@ -24,6 +24,7 @@ use_math: true
 
 * [Electromotive Force - Handwritten](./notes/handwritten/02-EMF.pdf)
 * [Motional EMF - Handwritten](./notes/handwritten/03-Motional_EMF.pdf)
+* [Homework 3 (Due Fri. Jan. 24)](./assignments/homework3.html)
 
 ---
 

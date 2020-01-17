@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 3 (Due. Jan 25)
+title: Homework 3 (Due. Jan 24)
 ---
 
 # 1. Homopolar Motor
@@ -52,7 +52,7 @@ A square metal loop is released from rest and falls straight down.  The loop is 
 3. At t = 0, the loop starts at rest.  Use $F_{net} = ma$ to write down a differential equation for the speed $v$ of the loop. Then, solve for the speed $v$ as a function of time.  You should find that the speed approaches the terminal speed exponentially – sketch $v(t)$.  What is the time constant for this exponential motion? If the metal is aluminum, and $B$ is, say, 0.2 T, what is the numerical value of the time constant? (*Hint: I claim the values of L, w, t don’t matter. Show us why not!*)
 
 ## 5. Project Problem - Continuing your annotated bibliography
-## (Actually due on Friday)
+
 Last week, you started an annotated bibliography, a detailed summary of each of the 2 articles you read. Make sure you read over your feedback carefully and make any adjustments that are requested.
 
 This week you will continue that work by adding to your bibliography by writing a detailed summary of at least 2 additional articles. You should also review the feedback that you received and adjust the summaries of the prior two articles as well as the current two to more well aligned with the feedback. A perfect score on this question will reflect the quality of the adjustments that you made as a result of the feedback.
