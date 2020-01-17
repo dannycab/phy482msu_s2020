@@ -18,3 +18,4 @@ permalink: notes/index.html
 * Lecture 3 (January 10th): Review III [[HTML]](./03-slides.html) [[PDF]](./03-slides.pdf)
 * Lecture 4 (January 13th): Current [[HTML]](./04-slides.html) [[PDF]](./04-slides.pdf)
 * Lecture 5 (January 15th): Ohm's Law [[HTML]](./05-slides.html) [[PDF]](./05-slides.pdf)
+* Lecture 6 (January 17th): Introduction to EMF [[HTML]](./06-slides.html) [[PDF]](./06-slides.pdf)
