@@ -19,15 +19,6 @@ Correct answer: A
 
 </section>
 
-<section>
-
-<section>
-    <h2>Surface Charge is Real</h2>
-    <video data-autoplay class="stretch" src="./assets/SurfaceCharge.mp4"></video><br>
-    <a href="./assets/SurfaceCharge.mp4">Link</a>
-</section>
-
-
 <section data-markdown>
 
 A metal bar moves with constant speed **to the right**. A constant magnetic field points **out of the page**. What happens to the electrons in the bar (in the frame of the moving bar)?
