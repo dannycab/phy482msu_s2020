@@ -5,6 +5,26 @@ permalink: calendar.html
 use_math: true
 ---
 
+### Week 4 - Faraday's Law and Inductance
+
+#### Pre-class Videos
+
+* [Introduction to Faraday's Law](https://youtu.be/Kv1ozKa9iLc)
+* [Deriving Faraday's Law](https://youtu.be/Lp2dibKm01I)
+* [Faraday's Law Example](https://youtu.be/64w1fH7RHDE)
+
+#### Reading
+
+* Read [this paper on quantitative experiments on Faraday's Law](./papers/1986_Nicklin_FL_QuantExp.pdf)
+* Read Ch 7.2.3 for this week
+
+#### Notes and Homework
+
+* [Faraday's Law - Handwritten](./notes/handwritten/04-Faradays_Law.pdf)
+* [Inductance](./notes/handwritten/05-Inductance.pdf)
+
+---
+
 ### Week 3 - Electromotive Force and Induction
 
 #### Pre-class Videos

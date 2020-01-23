@@ -208,23 +208,3 @@ We are likely to continue conservation laws next week.
 * [RLC Circuits](./notes/handwritten/06-RLC.pdf)
 
 ---
-
-### Week 4 - Faraday's Law
-
-#### Pre-class Videos
-
-* [Introduction to Faraday's Law](https://youtu.be/Kv1ozKa9iLc)
-* [Deriving Faraday's Law](https://youtu.be/Lp2dibKm01I)
-* [Faraday's Law Example](https://youtu.be/64w1fH7RHDE)
-
-#### Reading
-
-* Read [this paper on quantitative experiments on Faraday's Law](./papers/1986_Nicklin_FL_QuantExp.pdf)
-* Read Ch 7.2.3 for this week
-
-#### Notes and Homework
-
-* [Faraday's Law - Handwritten](./notes/handwritten/04-Faradays_Law.pdf)
-* [Homework 4 (Due Fri. Feb. 8)](./assignments/homework4.html)
-
----

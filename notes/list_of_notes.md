@@ -10,6 +10,8 @@ permalink: notes/index.html
 * [01 - Current and Ohm's Law](./handwritten/01-Current_and_Ohms_Law.pdf)
 * [02 - Electromotive Force](./handwritten/02-EMF.pdf)
 * [03 - Motional EMF](./handwritten/03-Motional_EMF.pdf)
+* [04 - Faraday's Law](./handwritten/04-Faradays_Law.pdf)
+* [05 - Inductance](./handwritten/05-Inductance.pdf)
 
 
 ## Slides
@@ -21,3 +23,4 @@ permalink: notes/index.html
 * Lecture 5 (January 15th): Ohm's Law [[HTML]](./05-slides.html) [[PDF]](./05-slides.pdf)
 * Lecture 6 (January 17th): Introduction to EMF [[HTML]](./06-slides.html) [[PDF]](./06-slides.pdf)
 * Lecture 7 (January 22nd): Motional EMF [[HTML]](./07-slides.html) [[PDF]](./07-slides.pdf)
+* Lecture 8 (January 24th): Motional EMF [[HTML]](./08-slides.html) [[PDF]](./08-slides.pdf)
