@@ -6,60 +6,6 @@ transition: slide
 
 <section data-markdown>
 
-A loop of wire is near a long straight wire which is carrying a large current $I$, which is **decreasing**.  The loop and the straight wire are in the same plane and are positioned as shown.  The current induced in the loop is:
-
-1. counter-clockwise
-2. clockwise
-3. zero.
-
-<img src="./images/loop_near_wire.png" align="center" style="width: 700px";/>
-
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-<img src="./images/loop_outside_solenoid.png" align="left" style="width: 300px";/>
-
-
-The current in an infinite solenoid with uniform magnetic field $\mathbf{B}$ inside is increasing so that the magnitude $B$ in increasing with time as $B=B_0+kt$. A small circular loop of radius $r$ is placed outside the solenoid as shown.
-
-What is the emf around the small loop? (Assume CW is the positive direction of current flow).
-
-
-1. $k\pi r^2$
-2. $-k\pi r^2$
-3. Zero
-4. Nonzero, but need more information for value
-5. Not enough information to tell if zero or non-zero
-
-Note:
-* Correct Answer: C
-
-</section>
-
-<section data-markdown>
-
-The current in an infinite solenoid with uniform magnetic field $\mathbf{B}$ inside is increasing so that the magnitude $B$ in increasing with time as $B=B_0+kt$. A small circular loop of radius $r$ is placed coaxially inside the solenoid as shown.  Without calculating anything, determine the direction of the induced magnetic field created by the induced current in the loop, in the plane region inside the loop?
-
-<img src="./images/loop_at_center_of_solenoid.png" align="left" style="width: 300px";/>
-
-
-1. Into the screen
-2. Out of the screen
-3. CW
-4. CCW
-5. Not enough information
-
-Note:
-* Correct Answer: A
-</section>
-
-<section data-markdown>
-
 The current in an infinite solenoid with uniform magnetic field $\mathbf{B}$ inside is increasing so that the magnitude B is increasing with time as $B=B_0+kt$. A circular loop of radius $r$ is placed coaxially outside the solenoid as shown.  In what direction is the induced $\mathbf{E}$ field around the loop?
 
 <img src="./images/solenoid_w_loop_outside.png" align="left" style="width: 300px";/>
