@@ -22,6 +22,7 @@ use_math: true
 
 * [Faraday's Law - Handwritten](./notes/handwritten/04-Faradays_Law.pdf)
 * [Inductance](./notes/handwritten/05-Inductance.pdf)
+* [Homework 4 (Due Fri. Jan. 31)](./assignments/homework4.html)
 
 ---
 

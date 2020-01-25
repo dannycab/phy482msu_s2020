@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 4 (Due. Feb 8)
+title: Homework 4 (Due. Jan 31)
 ---
 
 **There are fewer homework problems and no computational problem this week, so you can focus on the project problem (Problem 5 below). It is very important to work on the project problem this week because it starts you on the process of writing your paper. The project problem will take you longer than it has in the past, so start early!**
