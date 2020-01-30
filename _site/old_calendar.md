@@ -181,30 +181,6 @@ We are likely to continue conservation laws next week.
 * [Inductance](./notes/handwritten/05-Inductance.pdf)
 * [RLC Circuits](./notes/handwritten/06-RLC.pdf)
 * [Maxwell's Equations](./notes/handwritten/07-Maxwell_Equations.pdf)
-* [Homework 5 (Due Fri. Feb. 15)](./assignments/homework5.html)
 
----
-
-### Week 5 - Inductance and RLC Circuits
-
-*We are likely to continue RLC Circuits next week, so don't worry about taking your time with readings.*
-
-#### Pre-class Videos
-
-* [Mutual Inductance](https://www.youtube.com/watch?v=BRAS5LEhVlc)
-* [Self Inductance](https://www.youtube.com/watch?v=f0tHnFdSwoM)
-* [Reminders about Circuits](https://www.youtube.com/watch?v=Zgo9Vx_jYjk)
-* [An RL Circuit Example](https://www.youtube.com/watch?v=9OKjTEi8KFk)
-
-#### Reading
-
-* Read my notes on RLC circuits for this week
-* Read [this paper on phasors](./papers/2015_Close_Phasors.pdf)
-* Read Ch 7.3.1-7.3.3 for next week
-
-#### Notes and Homework
-
-* [Inductance](./notes/handwritten/05-Inductance.pdf)
-* [RLC Circuits](./notes/handwritten/06-RLC.pdf)
 
 ---

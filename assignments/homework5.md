@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 5 (Due. Feb 15)
+title: Homework 5 (Due. Feb 6)
 ---
 
 ## 1. An LC circuit

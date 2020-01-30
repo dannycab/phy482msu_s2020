@@ -27,3 +27,4 @@ permalink: notes/index.html
 * Lecture 8 (January 24th): Motional EMF and Introduction to Faraday's Law [[HTML]](./08-slides.html) [[PDF]](./08-slides.pdf)
 * Lecture 9 (January 27th): Faraday's Law [[HTML]](./09-slides.html) [[PDF]](./09-slides.pdf)
 * Lecture 10 (January 29th): Inductance [[HTML]](./10-slides.html) [[PDF]](./10-slides.pdf)
+* Lecture 11 (January 31st): Introduction to RLC [[HTML]](./11-slides.html) [[PDF]](./11-slides.pdf)
