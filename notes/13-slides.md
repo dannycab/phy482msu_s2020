@@ -21,6 +21,18 @@ Note:
 <section data-markdown>
 
 ## Announcements
+* Project problems are graded
+  * Sync your repositories to receive feedback
+  * Responding to your feedback is a big part of the next project problem
+* Quiz 3 (next Friday 2/17) - RLC circuits
+  * Solve a circuit problem using the phasor method
+  * Discuss limits on the response and how it might act as a filter
+
+</section>
+
+<section data-markdown>
+
+## Announcements
 * Quiz 3 (next Friday 2/22) - RLC circuits
   * Solve a circuit problem using the phasor method
   * Discuss limits on the response and how it might act as a filter
