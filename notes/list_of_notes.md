@@ -29,3 +29,4 @@ permalink: notes/index.html
 * Lecture 10 (January 29th): Inductance [[HTML]](./10-slides.html) [[PDF]](./10-slides.pdf)
 * Lecture 11 (January 31st): Introduction to RLC [[HTML]](./11-slides.html) [[PDF]](./11-slides.pdf)
 * Lecture 12 (February 3rd): RLC [[HTML]](./12-slides.html) [[PDF]](./12-slides.pdf)
+* Lecture 13 (February 5th): Complex Numbers and Phasors [[HTML]](./13-slides.html) [[PDF]](./13-slides.pdf)
