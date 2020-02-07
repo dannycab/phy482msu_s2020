@@ -30,3 +30,4 @@ permalink: notes/index.html
 * Lecture 11 (January 31st): Introduction to RLC [[HTML]](./11-slides.html) [[PDF]](./11-slides.pdf)
 * Lecture 12 (February 3rd): RLC [[HTML]](./12-slides.html) [[PDF]](./12-slides.pdf)
 * Lecture 13 (February 5th): Complex Numbers and Phasors [[HTML]](./13-slides.html) [[PDF]](./13-slides.pdf)
+* Lecture 14 (February 7th): Filters [[HTML]](./14-slides.html) [[PDF]](./14-slides.pdf)

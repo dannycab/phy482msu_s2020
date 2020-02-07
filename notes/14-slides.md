@@ -6,37 +6,20 @@ transition: slide
 
 <section data-markdown>
 
-A resistor ($R$) and an inductor ($L$) are in parallel. What is the effective impedance, $Z_{eff}$ across these elements?
+A capacitor ($C$) and an inductor ($L$) are in parallel. What is the effective impedance, $Z_{eff}$ across these elements?
 
-1. $R + L$
-2. $R + i\omega L$
-3. $1/(R+i\omega L)$
-4. $\dfrac{1}{1/R -i/(\omega L)}$
+1. $C + L$
+2. $i\omega C + i\omega L$
+3. $1/(i\omega C + i\omega L)$
+4. $1/i\omega C + i\omega L$
 5. Something else?
 
 Note:
-* Correct Answer: D
 
 </section>
 
 
 
-
-<section data-markdown>
-
-<img src="./images/RLC.png" align="right" style="width: 400px";/>
-What is the total impedance of this circuit, $Z_{total}$?
-
-1. $R + i\left(\omega L + \frac{1}{\omega C}\right)$
-2. $R + i\left(\omega L - \frac{1}{\omega C}\right)$
-3. $\frac{1}{R} + \frac{1}{i\omega L} + {i \omega C}$
-4.  $\dfrac{1}{\frac{1}{R} + \frac{1}{i\omega L} + {i \omega C}}$
-5. None of these
-
-Note:
-* Correct Answer: B
-
-</section>
 
 <section data-markdown>
 
