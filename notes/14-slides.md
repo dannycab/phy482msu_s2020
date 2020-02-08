@@ -39,24 +39,6 @@ Note:
 </section>
 
 <section data-markdown>
-Suppose you have a circuit driven by a voltage:
-$$V(t)=V_0\cos(\omega t)$$
-
-You observe the resulting current is:
-$$I(t) = I_0\cos(\omega t-\pi/4)$$
-
-Would you say the current is
-
-1. leading
-2. lagging
-
-the voltage by 45 degrees?
-
-Note:
-* Correct Answer: B
-</section>
-
-<section data-markdown>
 
 Consider an RC circuit attached to a sinusoidally driven voltage source. If at $t=0$ we turn on the source, $I(t=0)=\frac{V_0}{R}$. Then the current follows this solution,
 

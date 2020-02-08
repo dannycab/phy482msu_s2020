@@ -5,9 +5,35 @@ permalink: calendar.html
 use_math: true
 ---
 
-### Week 5 - Inductance and RLC Circuits
+### Week 7 - Maxwell's Correction to Ampere's Law and Conservation Laws
 
-*We are likely to continue RLC Circuits next week, so don't worry about taking your time with readings.*
+#### Pre-class Videos
+
+* [Are Maxwell's Equations Complete?](https://www.youtube.com/watch?v=wrx5Oi0VBhc)
+* [Fixing Ampere's Law](https://www.youtube.com/watch?v=6pk4aU5hVMw)
+* [The Displacement Current](https://www.youtube.com/watch?v=mCLVpGgQVp4)
+* [Charge Conservation](https://www.youtube.com/watch?v=WBpfuTtVpKI)
+* [Local Energy Conservation](https://www.youtube.com/watch?v=6FBcLM5ZaM0)
+* [Global Energy Conseravtion](https://www.youtube.com/watch?v=LEdLIGMcTPc)
+* [Poynting Vector Example](https://www.youtube.com/watch?v=38et8jZH_Wk)
+
+#### Reading
+
+* Read Ch 7.3.1-7.3.3 and Ch 8.1.1-8.2.2 for this week
+* Read [this paper on the leaky capacitor](./papers/1962_French_Displacement_Current.pdf)
+* Read [this paper on the Poynting vector](./papers/2000_Macjen_Poynting_vector.pdf)
+* Read [this paper on Energy transfer in circuits](./papers/2005_Galili_energy_transfer.pdf)
+* Read Ch 8.2.3-8.3 for next week
+
+#### Notes and Homework
+
+* [Maxwell's Equations](./notes/handwritten/07-Maxwell_Equations.pdf)
+* [Conservation Laws](./notes/handwritten/08-Conservation_Laws.pdf)
+* [Homework 6 (Due Fri. Feb. 14)](./assignments/homework6.html)
+
+---
+
+### Week 5 - Inductance and RLC Circuits
 
 #### Pre-class Videos
 

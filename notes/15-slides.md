@@ -4,6 +4,34 @@ theme: white
 transition: slide
 ---
 
+
+<section data-markdown>
+Suppose you have a circuit driven by a voltage:
+$$V(t)=V_0\cos(\omega t)$$
+
+You observe the resulting current is:
+$$I(t) = I_0\cos(\omega t-\pi/4)$$
+
+Would you say the current is
+
+1. leading
+2. lagging
+
+the voltage by 45 degrees?
+
+Note:
+* Correct Answer: B
+</section>
+
+<section data-markdown>
+
+## Announcements
+* Quiz 3 (Friday 2/14) - RLC circuits
+  * Solve a circuit problem using the phasor method
+  * Discuss limits on the response and how it might act as a filter
+
+</section>
+
 <section data-markdown>
 Two LR circuits driven by an AC power supply are shown below.
 
@@ -55,15 +83,6 @@ By calling it a "Law", we expect that:
 
 Note:
 * Correct Answer: C
-
-</section>
-
-<section data-markdown>
-
-## Announcements
-* Quiz 3 (Friday 2/12) - RLC circuits
-  * Solve a circuit problem using the phasor method
-  * Discuss limits on the response and how it might act as a filter
 
 </section>
 

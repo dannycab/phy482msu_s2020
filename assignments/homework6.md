@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 6 (Due. Feb 22)
+title: Homework 6 (Due. Feb 14)
 ---
 
 ## 1. Leading and Lagging Current
