@@ -33,4 +33,5 @@ permalink: notes/index.html
 * Lecture 12 (February 3rd): RLC [[HTML]](./12-slides.html) [[PDF]](./12-slides.pdf)
 * Lecture 13 (February 5th): Complex Numbers and Phasors [[HTML]](./13-slides.html) [[PDF]](./13-slides.pdf)
 * Lecture 14 (February 7th): Filters [[HTML]](./14-slides.html) [[PDF]](./14-slides.pdf)
-* Lecture 15 (February 10th): Maxwell's Equations [[HTML]](./15-slides.html) [[PDF]](./15-slides.pdf)
+* Lecture 15 (February 10th): Maxwell's Equations and Displacement Current [[HTML]](./15-slides.html) [[PDF]](./15-slides.pdf)
+* Lecture 15 (February 12th): Conservation Laws [[HTML]](./16-slides.html) [[PDF]](./16-slides.pdf)

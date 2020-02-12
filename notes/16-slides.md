@@ -6,67 +6,6 @@ transition: slide
 
 <section data-markdown>
 
-How amazing is that $\dfrac{1}{\sqrt{\epsilon_0 \mu_0}} = 3\times10^8 \mathrm{m/s}$?
-
-1. OMGBBQPIZZA, so amazing!
-2. It's pretty cool
-3. Meh
-4. Whatever
-
-</section>
-
-<section data-markdown>
-## Correct Answer
-OMGBBQPIZZA, so amazing!
-
-</section>
-
-<section data-markdown>
-
-Consider a large parallel plate capacitor as shown, charging so that $Q = Q_0+\beta t$ on the positively charged plate. Assuming the edges of the capacitor and the wire connections to the plates can be ignored, what is the direction of the magnetic field $\mathbf{B}$ halfway between the plates, at a radius $r$?
-
-<img src="./images/charging_cap_dEdt.png" align="left" style="width: 400px";/>
-
-1. $\pm \hat{\phi}$
-2. 0
-3. $\pm \hat{z}$
-4. $\pm \hat{s}$
-5. ???
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-Same capacitor with $Q = Q_0+\beta t$ on the positively charged plate. What is the direction of the magnetic field $\mathbf{B}$ halfway between the plates, at a radius $r$?
-
-<img src="./images/charging_cap_dEdt.png" align="left" style="width: 400px";/>
-
-1. $+\hat{\phi}$
-2. $-\hat{\phi}$
-3. Not sure how to tell
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-Same capacitor with $Q = Q_0+\beta t$ on the positively charged plate. What kind of amperian loop can be used between the plates to find the magnetic field $\mathbf{B}$ halfway between the plates, at a radius $r$?
-
-<img src="./images/charging_cap_dEdt_loop.png" align="center" style="width: 500px";/>
-
-D) A different loop  E) Not enough symmetry for a useful loop
-
-Note:
-* Correct Answer: B
-</section>
-
-<section data-markdown>
-
 Same capacitor with $Q = Q_0+\beta t$ on the positively charged plate. What is the magnitude of the magnetic field $\mathbf{B}$ halfway between the plates, at a radius $r$?
 
 <img src="./images/charging_cap_dEdt_smaller.png" align="left" style="width: 400px";/>
@@ -376,7 +315,7 @@ Note:
 
 <img src="./images/capacitor_face_on.png" align="left" style="width: 400px";/>
 
-Use the Maxwell-Ampere Law to derive a formula for the manetic at a distance $r>R$ from the center of the plate in terms of the current, $I$.
+Use the Maxwell-Ampere Law to derive a formula for the magnetic at a distance $r>R$ from the center of the plate in terms of the current, $I$.
 
 
 1. $B=\frac{\mu_0 I}{2\pi r}$
