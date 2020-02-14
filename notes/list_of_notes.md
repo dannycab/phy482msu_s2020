@@ -34,4 +34,5 @@ permalink: notes/index.html
 * Lecture 13 (February 5th): Complex Numbers and Phasors [[HTML]](./13-slides.html) [[PDF]](./13-slides.pdf)
 * Lecture 14 (February 7th): Filters [[HTML]](./14-slides.html) [[PDF]](./14-slides.pdf)
 * Lecture 15 (February 10th): Maxwell's Equations and Displacement Current [[HTML]](./15-slides.html) [[PDF]](./15-slides.pdf)
-* Lecture 15 (February 12th): Conservation Laws [[HTML]](./16-slides.html) [[PDF]](./16-slides.pdf)
+* Lecture 16 (February 12th): Conservation Laws (Charge) [[HTML]](./16-slides.html) [[PDF]](./16-slides.pdf)
+* Lecture 17 (February 14th): Conservation Laws (Energy) [[HTML]](./17-slides.html) [[PDF]](./17-slides.pdf)
