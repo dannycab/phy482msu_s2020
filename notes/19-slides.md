@@ -7,36 +7,6 @@ transition: slide
 <section data-markdown>
 
 
-<img src="./images/cap_with_blue_cylinder.png" align="left" style="width: 400px";/>
-Consider the cylindrical volume of space bounded by the capacitor plates.  Compute $\mathbf{S} = \mathbf{E} \times \mathbf{B} /\mu_0$  at the outside (cylindrical, curved) surface of that volume.
-Which WAY does it point?
-
-1. Always inward
-2. Always outward
-3. ???
-
-Note:
-* Correct Answer: A
-</section>
-
-<section data-markdown>
-
-The energies stored in the electric and magnetic fields are:
-
-
-1. individually conserved for both $\mathbf{E}$ and $\mathbf{B}$, and cannot change.
-2. conserved only if you sum the $\mathbf{E}$ and $\mathbf{B}$ energies together.
-3. are not conserved at all.
-4. ???
-
-Note:
-* Correct Answer: C
-
-</section>
-
-<section data-markdown>
-
-
 ## Announcements
 
 * Quiz Friday after Spring Break (Topic TBD)
