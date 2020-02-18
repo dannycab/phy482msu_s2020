@@ -38,3 +38,4 @@ permalink: notes/index.html
 * Lecture 16 (February 12th): Conservation Laws (Charge) [[HTML]](./16-slides.html) [[PDF]](./16-slides.pdf)
 * Lecture 17 (February 14th): Conservation Laws (Energy) [[HTML]](./17-slides.html) [[PDF]](./17-slides.pdf)
 * Lecture 18 (February 17th): Conservation Laws (Energy and Momentum) [[HTML]](./18-slides.html) [[PDF]](./18-slides.pdf)
+* Lecture 19 (February 19th): Conservation Laws (Momentum and Angular Momentum) [[HTML]](./19-slides.html) [[PDF]](./19-slides.pdf)
