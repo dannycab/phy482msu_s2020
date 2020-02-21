@@ -5,7 +5,7 @@ permalink: calendar.html
 use_math: true
 ---
 
-### Week 8 - Introduction to Waves
+### Week 9 - Introduction to Waves
 
 #### Pre-class Videos
 
@@ -21,22 +21,40 @@ use_math: true
 #### Notes and Homework
 
 * [Introduction to Waves](./notes/handwritten/09-Introduction_to_waves.pdf)
+* [Electromagnetic Waves](./notes/handwritten/10-Electromagnetic_waves.pdf)
+* [Homework 8 (Due Fri. Feb. 28)](./assignments/homework8.html)
+
+---
+
+### Week 8 - Conservation Laws
+
+#### Pre-class Videos
+
+* [Charge Conservation](https://www.youtube.com/watch?v=WBpfuTtVpKI)
+* [Local Energy Conservation](https://www.youtube.com/watch?v=6FBcLM5ZaM0)
+* [Global Energy Conseravtion](https://www.youtube.com/watch?v=LEdLIGMcTPc)
+* [Poynting Vector Example](https://www.youtube.com/watch?v=38et8jZH_Wk)
+
+#### Reading
+
+* Read my notes
+* Read Griffith's Chapter 9.1.1 and 9.1.2
+
+#### Notes and Homework
+
+* [Conservation Laws](./notes/handwritten/08-Conservation_Laws.pdf)
 * [Homework 7 (Due Fri. Feb. 21)](./assignments/homework7.html)
   * Note there's no project problem this week. You have two weeks to complete your paper. You can send me a draft for feedback.
 
 ---
 
-### Week 7 - Maxwell's Correction to Ampere's Law and Conservation Laws
+### Week 7 - Maxwell's Correction to Ampere's Law
 
 #### Pre-class Videos
 
 * [Are Maxwell's Equations Complete?](https://www.youtube.com/watch?v=wrx5Oi0VBhc)
 * [Fixing Ampere's Law](https://www.youtube.com/watch?v=6pk4aU5hVMw)
 * [The Displacement Current](https://www.youtube.com/watch?v=mCLVpGgQVp4)
-* [Charge Conservation](https://www.youtube.com/watch?v=WBpfuTtVpKI)
-* [Local Energy Conservation](https://www.youtube.com/watch?v=6FBcLM5ZaM0)
-* [Global Energy Conseravtion](https://www.youtube.com/watch?v=LEdLIGMcTPc)
-* [Poynting Vector Example](https://www.youtube.com/watch?v=38et8jZH_Wk)
 
 #### Reading
 
@@ -49,7 +67,6 @@ use_math: true
 #### Notes and Homework
 
 * [Maxwell's Equations](./notes/handwritten/07-Maxwell_Equations.pdf)
-* [Conservation Laws](./notes/handwritten/08-Conservation_Laws.pdf)
 * [Homework 6 (Due Fri. Feb. 14)](./assignments/homework6.html)
 
 ---

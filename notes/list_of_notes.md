@@ -16,6 +16,7 @@ permalink: notes/index.html
 * [07 - Maxwell's Equations](./handwritten/07-Maxwell_Equations.pdf)
 * [08 - Conservation Laws](./handwritten/08-Conservation_Laws.pdf)
 * [09 - Introduction to Waves](./handwritten/09-Introduction_to_waves.pdf)
+* [10 - Electromagnetic Waves](./handwritten/10-Electromagnetic_waves.pdf)
 
 
 ## Slides
@@ -39,3 +40,4 @@ permalink: notes/index.html
 * Lecture 17 (February 14th): Conservation Laws (Energy) [[HTML]](./17-slides.html) [[PDF]](./17-slides.pdf)
 * Lecture 18 (February 17th): Conservation Laws (Energy and Momentum) [[HTML]](./18-slides.html) [[PDF]](./18-slides.pdf)
 * Lecture 19 (February 19th): Conservation Laws (Momentum and Angular Momentum) [[HTML]](./19-slides.html) [[PDF]](./19-slides.pdf)
+* Lecture 20 (February 21st): Introduction to Waves [[HTML]](./20-slides.html) [[PDF]](./20-slides.pdf)
