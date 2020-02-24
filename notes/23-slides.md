@@ -4,6 +4,9 @@ theme: white
 transition: slide
 ---
 
+MOVED THESE!!!
+
+
 <section data-markdown>
 
 You have this solution to Maxwell's equations in vacuum:
