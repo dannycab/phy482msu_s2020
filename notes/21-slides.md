@@ -44,7 +44,7 @@ Note:
 
 ## Announcements
 
-* Quiz next Friday (Maxwell Ampere + Poynting Vector)
+* Quiz this Friday (Maxwell Ampere + Poynting Vector)
   * Determine the electric and magnetic field in a situation where there is a displacement current
   * Discuss the direction of the Poynting vector and how it relates to conservation of energy
 
