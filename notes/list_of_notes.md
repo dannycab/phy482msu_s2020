@@ -17,6 +17,7 @@ permalink: notes/index.html
 * [08 - Conservation Laws](./handwritten/08-Conservation_Laws.pdf)
 * [09 - Introduction to Waves](./handwritten/09-Introduction_to_waves.pdf)
 * [10 - Electromagnetic Waves](./handwritten/10-Electromagnetic_waves.pdf)
+* [11 - EM Waves in Matter](./handwritten/11-EM_Waves_in_Matter.pdf)
 
 
 ## Slides
@@ -42,3 +43,4 @@ permalink: notes/index.html
 * Lecture 19 (February 19th): Conservation Laws (Momentum and Angular Momentum) [[HTML]](./19-slides.html) [[PDF]](./19-slides.pdf)
 * Lecture 20 (February 21st): Introduction to Waves [[HTML]](./20-slides.html) [[PDF]](./20-slides.pdf)
 * Lecture 21 (February 24th): Electromagnetic Waves [[HTML]](./21-slides.html) [[PDF]](./21-slides.pdf)
+* Lecture 22 (February 26th): Transmission Reflection in 1D; Energy of EM Waves [[HTML]](./22-slides.html) [[PDF]](./22-slides.pdf)
