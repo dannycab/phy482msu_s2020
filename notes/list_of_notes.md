@@ -18,6 +18,7 @@ permalink: notes/index.html
 * [09 - Introduction to Waves](./handwritten/09-Introduction_to_waves.pdf)
 * [10 - Electromagnetic Waves](./handwritten/10-Electromagnetic_waves.pdf)
 * [11 - EM Waves in Matter](./handwritten/11-EM_Waves_in_Matter.pdf)
+* [12 - Reflection and Transmission](./handwritten/12-Reflection_and_Transmission.pdf)
 
 
 ## Slides
@@ -44,3 +45,4 @@ permalink: notes/index.html
 * Lecture 20 (February 21st): Introduction to Waves [[HTML]](./20-slides.html) [[PDF]](./20-slides.pdf)
 * Lecture 21 (February 24th): Electromagnetic Waves [[HTML]](./21-slides.html) [[PDF]](./21-slides.pdf)
 * Lecture 22 (February 26th): Transmission Reflection in 1D; Energy of EM Waves [[HTML]](./22-slides.html) [[PDF]](./22-slides.pdf)
+* Lecture 23 (February 28th): Intro to EM Waves in Matter [[HTML]](./23-slides.html) [[PDF]](./23-slides.pdf)

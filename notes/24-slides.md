@@ -4,6 +4,8 @@ theme: white
 transition: slide
 ---
 
+MOVED THESE!!!
+
 <section data-markdown>
 For a wave on a 1d string that hits a boundary between 2 strings of different material we get,
 
