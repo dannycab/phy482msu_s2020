@@ -46,3 +46,4 @@ permalink: notes/index.html
 * Lecture 21 (February 24th): Electromagnetic Waves [[HTML]](./21-slides.html) [[PDF]](./21-slides.pdf)
 * Lecture 22 (February 26th): Transmission Reflection in 1D; Energy of EM Waves [[HTML]](./22-slides.html) [[PDF]](./22-slides.pdf)
 * Lecture 23 (February 28th): Intro to EM Waves in Matter [[HTML]](./23-slides.html) [[PDF]](./23-slides.pdf)
+* Lecture 24 (March 9th): EM Waves in Matter [[HTML]](./24-slides.html) [[PDF]](./24-slides.pdf)
