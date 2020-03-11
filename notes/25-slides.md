@@ -29,6 +29,60 @@ Note:
 
 <section data-markdown>
 
+If $n_1 \approx n_2$, then what happens to $R$ and $T$?
+
+1. $R \rightarrow 1$; $T \rightarrow 0$
+2. $R \rightarrow 0$; $T \rightarrow 1$
+3. $R \rightarrow 0$; $T \rightarrow 0$
+4. $R \rightarrow 1$; $T \rightarrow 1$
+
+Note:
+* Correct Answer: B
+
+</section>
+
+<section data-markdown>
+
+If $n_1 \gg n_2$ or $n_1 \ll n_2$, then what happens to $R$ and $T$?
+
+1. $R \rightarrow 1$; $T \rightarrow 0$
+2. $R \rightarrow 0$; $T \rightarrow 1$
+3. it depends!
+
+Note:
+* Correct Answer: A
+
+</section>
+
+
+<section data-markdown>
+
+When an EM wave travels from a media with a very high index of refraction to a very low index of refraction, which has more of the energy (intensity)?
+
+1. The reflected wave in the high index material
+2. The transmitted wave in the low index material
+3. It depends
+
+Note:
+* Correct Answer: A
+
+</section>
+
+<section data-markdown>
+
+When an EM wave travels from a media with a very high index of refraction to a very low index of refraction, which wave has the higher amplitude?
+
+1. The reflected wave in the high index material
+2. The transmitted wave in the low index material
+3. It depends
+
+Note:
+* Correct Answer: B
+
+</section>
+
+<section data-markdown>
+
 **Claim:** For a wave heading towards a boundary between two media at an oblique angle, $\omega_I = \omega_R = \omega_T$.
 
 1. True
