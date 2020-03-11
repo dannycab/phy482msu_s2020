@@ -7,6 +7,14 @@ transition: slide
 
 <section data-markdown>
 
+Virtual Clicker
+
+https://pollev.com/dannycaballe980
+
+</section>
+
+<section data-markdown>
+
 A wave on a string starts in a very heavy string and travels towards a very light string. When the wave enters the light string,
 
 1. most of the wave is reflected back; very little of the wave transmits through the light string
