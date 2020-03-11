@@ -5,95 +5,42 @@ transition: slide
 ---
 
 
-MOVED THESE!!!
-
 <section data-markdown>
 
-In matter we have,
+A wave on a string starts in a very heavy string and travels towards a very light string. When the wave enters the light string,
 
-$$\nabla \cdot \mathbf{D} = \rho_f \qquad \nabla \cdot \mathbf{B} = 0$$
-$$\nabla \times \mathbf{E} = -\dfrac{\partial \mathbf{B}}{\partial t} \qquad \nabla \times \mathbf{H} = \mathbf{J}_f + \dfrac{\partial \mathbf{D}}{\partial t}$$
-with
-$$\mathbf{D} = \varepsilon_0 \mathbf{E} + \mathbf{P} \qquad \mathbf{H} = \mathbf{B}/\mu_0 - \mathbf{M}$$
-
-If there are no free charges or current, is $\nabla \cdot \mathbf{E} = 0$?
-
-1. Yes, always
-2. Yes, under certain conditions (what are they?)
-3. No, in general this will not be true
-4. ??
+1. most of the wave is reflected back; very little of the wave transmits through the light string
+2. some of the wave is reflected back; some of the wave transmits through light string
+3. very little of the wave is reflected back; most of the wave transmits through light string
+4. ???
 
 Note:
-* Correct answer: B
-</section>
-
-<section data-markdown>
-
-In linear dielectrics, $\mathbf{D} = \varepsilon_0\mathbf{E} + \mathbf{P} = \varepsilon \mathbf{E}.$ In a linear dielectric is $\varepsilon > \varepsilon_0$?
-
-1. Yes, always
-2. No, never
-3. Sometimes, it depends on the details of the dielectric.
-
-Note:
-* Correct answer: A
+* Correct Answer: A
 
 </section>
 
 <section data-markdown>
 
-In a non-magnetic, linear dielectric,
+**Claim:** For a wave heading towards a boundary between two media at an oblique angle, $\omega_I = \omega_R = \omega_T$.
 
-$$v = \dfrac{1}{\sqrt{\mu \varepsilon}} = \dfrac{1}{\sqrt{\mu \varepsilon_r \varepsilon_0}} = \dfrac{c}{\sqrt{\varepsilon_r}}$$
+1. True
+2. False
 
-How does $v$ compare to $c$?
+Note:
+* Correct Answer: A
+* All are the same
 
-1. $v>c$ always
-2. $v<c$ always
-3. It depends
+</section>
+
+<section data-markdown>
+
+**Claim:** For a wave heading towards a boundary between two media at an oblique angle, at the boundary, $\mathbf{k}_I\cdot\mathbf{r} = \mathbf{k}_R\cdot\mathbf{r} \neq \mathbf{k}_T\cdot\mathbf{r}$.
+
+1. True
+2. False
 
 Note:
 * Correct Answer: B
-
-</section>
-
-<section data-markdown>
-
-A light rope (small $m/L$) is fused to a heavy rope (large $m/L$). If I wiggle the **light** rope,
-
-1. most of the wiggles are reflected back; very few wiggles transmit through the heavy rope
-2. some of the wiggles are reflected back; some of the wiggles transmit through the heavy rope
-3. very few of the wiggles are reflected back; most of the wiggles transmit through the heavy rope
-4. ???
-
-Note:
-* Correct answer: A
-
-</section>
-
-<section data-markdown>
-
-A light rope (small $m/L$) is fused to a heavy rope (large $m/L$). If I wiggle the **heavy** rope,
-
-1. most of the wiggles are reflected back; very few wiggles transmit through the light rope
-2. some of the wiggles are reflected back; some of the wiggles transmit through the light rope
-3. very few of the wiggles are reflected back; most of the wiggles transmit through the light rope
-4. ???
-
-Note:
-* Correct answer: B/C
-
-</section>
-
-<section data-markdown>
-
-How do the speed of the waves compare in the light rope ($v_l$) and heavy rope ($v_H$)?
-
-1. $v_l < v_H$
-2. $v_l = v_H$
-3. $v_l > v_H$
-
-Note:
-* Correct Answer: C
+* All are equal
 
 </section>
