@@ -48,3 +48,4 @@ permalink: notes/index.html
 * Lecture 23 (February 28th): Intro to EM Waves in Matter [[HTML]](./23-slides.html) [[PDF]](./23-slides.pdf)
 * Lecture 24 (March 9th): EM Waves in Matter [[HTML]](./24-slides.html) [[PDF]](./24-slides.pdf)
 * Lecture 25 (March 11th): Reflection and Transmission [[HTML]](./25-slides.html) [[PDF]](./25-slides.pdf)
+* Lecture 26 (March 13th): Oblique EM Waves [[HTML]](./26-slides.html) [[PDF]](./26-slides.pdf)

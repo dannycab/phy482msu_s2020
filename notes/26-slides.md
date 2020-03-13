@@ -4,93 +4,52 @@ theme: white
 transition: slide
 ---
 
-<section data-markdown>
 
-In our analogy of waves on strings to E&M waves, we said that that a light string corresponded to a (fast, slow) EM media and a heavy string corresponded to a (fast, slow) EM media.
-
-1. fast; slow
-2. slow; fast
-3. slow; slow
-4. fast; fast
-
-Note:
-* Correct Answer: A
-
-</section>
 
 <section data-markdown>
-For our reflected and transmitted waves, how many unknowns have we introduced?
 
-$$\mathbf{E}_R = \widetilde{E_R}e^{i(k_Rz-\omega_Rt)}\hat{n}_R$$
-$$\mathbf{E}_T = \widetilde{E_T}e^{i(k_Tz-\omega_Tt)}\hat{n}_T$$
+Virtual Clicker
 
-1. 2
-2. 4
-3. 8
-4. 12
-5. None of the above
-
-Note:
-* Correct answer: D
-* It's about 12.
-
-</section>
-
-<section data-markdown>
-For our reflected and transmitted waves, how many unknowns have we introduced?
-
-$$\mathbf{E}_R = \widetilde{E_R}e^{i(k_Iz-\omega_It)}\hat{n}_I$$
-$$\mathbf{E}_T = \widetilde{E_T}e^{i(k_Tz-\omega_It)}\hat{n}_I$$
-
-1. 2
-2. 4
-3. 8
-4. 12
-5. None of the above
-
-Note:
-* Correct answer: A
+https://pollev.com/dannycaballe980
 
 </section>
 
 <section data-markdown>
 
-An EM wave is normally incident on a boundary between two materials ($n_1 \ll n_2$). If the incident wave starts in **material 1**,
+## Announcements
 
-1. most of the wave is reflected back; very little of the wave transmits through material 2
-2. some of the wave is reflected back; some of the wave transmits through material 2
-3. very little of the wave is reflected back; most of the wave transmits through material 2
-4. ???
-
-Note:
-* Correct Answer: A
+* Quiz 5 (next Friday)
+  * Write a quiz that deals with reflection and transmission of EM Waves
+  * Review Criteria (posted soon)
+* Group Project
+  * Find partners ASAP
 
 </section>
 
 <section data-markdown>
 
-An EM wave is normally incident on a boundary between two materials ($n_1 \ll n_2$). If the incident wave starts in **material 2**,
+## Write your own quiz criteria
 
-1. most of the wave is reflected back; very little of the wave transmits through material 1
-2. some of the wave is reflected back; some of the wave transmits through material 1
-3. very little of the wave is reflected back; most of the wave transmits through material 1
-4. ???
+50% credit for turning it in.
 
-Note:
-* Correct Answer: A
+1. (10%; required) Student’s quiz uses the relevant concepts to solve a physics problem.
+2. (10%; required) Student’s quiz requires using at least two representations (mathematics, diagram, graph) to complete.
+3. (10%; required) Student’s quiz requires either checking limits and interpreting the result, explaining a representation in the context of the concept or problem, or arguing a position about the concept or phenomenon.
+4. (20%; required) Student’s solution to the quiz is physically and mathematical correct.
+5. (5%; bonus) Student’s quiz requires more than two representations to complete it.
+6. (5%; bonus) Student’s quiz requires older concepts and material to complete it.
 
 </section>
 
 <section data-markdown>
 
-An EM wave is normally incident on a boundary between two materials ($n_1$ is close to $n_2$). If the incident wave starts in **material 1**,
+**Claim:** For a wave heading towards a boundary between two media at an oblique angle, at the boundary, $\mathbf{k}_I\cdot\mathbf{r} = \mathbf{k}_R\cdot\mathbf{r} \neq \mathbf{k}_T\cdot\mathbf{r}$.
 
-1. most of the wave is reflected back; very little of the wave transmits through material 1
-2. some of the wave is reflected back; some of the wave transmits through material 1
-3. very little of the wave is reflected back; most of the wave transmits through material 1
-4. ???
+1. True
+2. False
 
 Note:
-* Correct Answer: C
+* Correct Answer: B
+* All are equal
 
 </section>
