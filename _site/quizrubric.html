@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Homework 12 (Due. Apr 19)</title>
+  <title>Quiz Rubric</title>
   <meta name="description" content="Website for Physics 482 - Electricity and Magnetism II at Michigan State University
 ">
 
   <link rel="stylesheet" href="/phy482msu_s2020/styles/site.css">
-  <link rel="canonical" href="http://localhost:4000/phy482msu_s2020/assignments/homework12.html">
+  <link rel="canonical" href="http://localhost:4000/phy482msu_s2020/quizrubric.html">
   <link rel="alternate" type="application/rss+xml" title="Physics 482" href="http://localhost:4000/phy482msu_s2020/feed.xml">
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -467,64 +467,111 @@
 </header>-->
 
 
-      <div class="container well">
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="container well">
 
-        <h1 class="post-title">Homework 12 (Due. Apr 19)</h1>
-          <div >
-    <h2 id="1--lorentz-transformation-for-the-general-velocity-vector">1.  Lorentz transformation for the general velocity vector</h2>
+  <header class="post-header">
+    <h1 class="post-title">Quiz Rubric</h1>
+  </header>
 
-<p>Textbooks tend to only give you the Lorentz transformation along a single coordinate axis, but it is not always convenient to keep redefining the coordinate system for problems with several different velocities. To derive a more general formula using vector notation, use the idea that the part of a position vector $\vec{r}$ that is parallel to the velocity is the part that is changed by the transformation, while the part that is perpendicular to the velocity is unchanged.</p>
+  <div class="post-content">
+    <p>For the last few quizzes you will write and solve your own quizzes. As explained in class, the rubric we will use to grade your quiz is as follows:</p>
 
-<ol>
-  <li>Assume that you wish to transform from your inertial frame (the ($\vec{r}, ct$) frame] to the “primed” inertial frame ($\vec{r}’, ct’$) moving with velocity $\vec{v} = c\vec{\beta}$ that points in some arbitrary direction (e.g., it has an $x$, $y$ and $z$ component). You should find the following: $c t’ = \gamma (c t − \vec{r} \cdot \vec{\beta})$ and $\vec{r}’=\vec{r}+(\gamma −1)(\vec{r}\cdot \hat{\beta})\hat{\beta}−\gamma ct \vec{\beta}$.</li>
-  <li>Show that in the case that the velocity is in the x-direction, you get back the usual transformation.</li>
-  <li>How would you write this using 4-vector notation? What is $\Lambda_{\nu}^{\mu}$?</li>
-</ol>
-
-<h2 id="2-transformation-of-velocity-and-acceleration-components">2. Transformation of velocity and acceleration components</h2>
-
-<p>We derived the transformation of velocity in 1D (i.e., when there is one frame moving at a speed $v$ in the $x$ direction, $S’$ relative to the other, $S$) using the Lorentz transformations. We found that</p>
-
-<script type="math/tex; mode=display">u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}</script>
+<p>50% credit for turning it in.</p>
 
 <ol>
-  <li>Derive the relationship between the velocity components in each frame (for both the $y$ and $z$ directions) for the same scenario. Recall that length measurements will be the same in both frames!</li>
-  <li>Derive the relationship between the acceleration measured in the $S$ frame and the $S’$ frame in just the x-direction.</li>
-  <li>Show check the limits of your results in part 2 when $v$ approaches 0. Does you result make sense? What about when $v$ approaches $c$?</li>
+  <li>(10%; required) Student’s quiz uses the relevant concepts to solve a physics problem.</li>
+  <li>(10%; required) Student’s quiz requires using at least two representations (mathematics, diagram, graph) to complete.</li>
+  <li>(10%; required) Student’s quiz requires either checking limits and interpreting the result, explaining a representation in the context of the concept or problem, or arguing a position about the concept or phenomenon.</li>
+  <li>(20%; required) Student’s solution to the quiz is physically and mathematical correct.</li>
+  <li>(5%; bonus) Student’s quiz requires more than two representations to complete it.</li>
+  <li>(5%; bonus) Student’s quiz requires older concepts and material to complete it.</li>
 </ol>
 
-<h2 id="3-rapidity">3. Rapidity</h2>
+<p>Each of the required components will be graded on the same (10, 8, 4, 0) scale that we have used for homework. The bonus components are all or nothing. So the detailed rubric appears below:</p>
 
-<p>It is common in nuclear physics to talk about “rapidity” of a particle, defined as an angle $\phi = \cosh^{-1} \gamma$ (here $\gamma$ is the usual relativistic gamma factor, and that’s an inverse hyperbolic $\cosh$).</p>
-
-<ol>
-  <li>Prove that the usual relativistic $\beta = v/c$ is given by $\beta = \tanh \phi$, and then show $\beta \gamma = \sinh \phi$. With these, rewrite the Lorentz transformations in matrix form entirely in terms of the rapidity angle. The result you get might remind you of a rather different kind of transformation, please comment!</li>
-  <li>Suppose that observer B has rapidity $\phi_1$ as measured by observer A, and C has rapidity $\phi_2$ as observed by B (both velocities are on the x-axis). Show that the rapidity of C as measured by A is just $\phi_1 + \phi_2$, i.e. rapidities “add” (unlike velocities, which do not “properly” add in relativity!)</li>
-</ol>
-
-<p><em>Here is a hyperbolic identity you might find useful:</em>
-<script type="math/tex">\tanh(a+b) = \dfrac{\tanh a + \tanh b}{1 + \tanh a \tanh b}</script>.</p>
-
-<h2 id="4-invariance-of-the-space-time-interval">4. Invariance of the space-time interval</h2>
-
-<p>Prove that the interval between two events is Lorentz Invariant:</p>
-
-<script type="math/tex; mode=display">I = \Delta {x}'_{\mu} \Delta {x}'^{\mu} = \Delta {x}_{\mu} \Delta {x}^{\mu}</script>
-
-<p>Recall that the Lorentz transformation is $\Delta {x}’^{\mu} = \Lambda_{\nu}^{\mu} \Delta x^{\nu}$.</p>
-
-<h2 id="5-project-problem---choose-your-feedback">5. Project problem - Choose your feedback</h2>
-
-<p>You’ve been working on this project for a while now and this will be the last formal project problem. Think about what feedback you want from me regarding your project. What would be helpful? What do you need some direction or instructions on? Think about what would help you the most to make a successful poster in a couple of weeks. Write up a short document outlining what feedback you feel that you need and direct me to the document(s) to review.</p>
-
-<p>This kind of work models what your advisor (or boss) might do when you are presenting a project that you’ve been working on. You know the details of the project better than the advisor (or boss), but you might still want help thinking about the big picture or, perhaps, some specific details that you want to check.</p>
-
-<p><strong>As usual,  commit these changes to your repository.</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th> </th>
+      <th>Appears clearly (10)</th>
+      <th> </th>
+      <th>Appears, but incomplete or unclear (8)</th>
+      <th> </th>
+      <th>Attempted but incorrect (4)</th>
+      <th> </th>
+      <th>Absent (0)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Relevant Concepts</strong> (10%)</td>
+      <td> </td>
+      <td>Clearly tests all relevant concepts</td>
+      <td> </td>
+      <td>Tests some relevant concepts, but missing others</td>
+      <td> </td>
+      <td>Includes concept superficially or in an physically incorrect way</td>
+      <td> </td>
+      <td>Absent, no evidence</td>
+    </tr>
+    <tr>
+      <td><strong>Two Representations</strong> (10%)</td>
+      <td> </td>
+      <td>Clearly requires two different representations to solve the quiz</td>
+      <td> </td>
+      <td>Makes use of two representations but one is not really needed (or used incorrectly)</td>
+      <td> </td>
+      <td>Makes use of two representations, both used incorrectly</td>
+      <td> </td>
+      <td>Absent, no evidence</td>
+    </tr>
+    <tr>
+      <td><strong>Using physics to explain</strong> (10%)</td>
+      <td> </td>
+      <td>Clearly requires explanation of concepts using one or more representations to solve quiz</td>
+      <td> </td>
+      <td>Some explanation is requested but unclear or doesn’t make use of representations</td>
+      <td> </td>
+      <td>Explanation is requested but incorrect given context</td>
+      <td> </td>
+      <td>Absent, no evidence</td>
+    </tr>
+    <tr>
+      <td><strong>Correct Solution</strong> (20%)</td>
+      <td> </td>
+      <td>Solution is complete and correct</td>
+      <td> </td>
+      <td>Solution has up to two minor errors (e.g., math mistake; mislabeled graph) or one major error</td>
+      <td> </td>
+      <td>Solution has up to two major errors (e.g., incorrect application of physics or math)</td>
+      <td> </td>
+      <td>Absent, no evidence</td>
+    </tr>
+  </tbody>
+</table>
 
   </div>
 
+</div>
 
       </div>
+    </div>
+
+    <footer class="footer">
+    <div class="container alert alert-info">
+        <div class="col-md-8">
+            <p>Website for Physics 482 - Electricity and Magnetism II at Michigan State University
+</p>
+        </div>
+        <div class="col-md-4">
+          Contact: <a href="mailto:caballero@pa.msu.edu">caballero@pa.msu.edu</a> <i class="fa fa-envelope" aria-hidden="true"></i>
+        </div>
+    </div>
+</footer>
+
 
   </body>
 

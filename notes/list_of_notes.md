@@ -19,6 +19,8 @@ permalink: notes/index.html
 * [10 - Electromagnetic Waves](./handwritten/10-Electromagnetic_waves.pdf)
 * [11 - EM Waves in Matter](./handwritten/11-EM_Waves_in_Matter.pdf)
 * [12 - Reflection and Transmission](./handwritten/12-Reflection_and_Transmission.pdf)
+* [13 - Electromagnetic Waves in Conductors](./handwritten/13-EM_Waves_in_Conductors.pdf)
+* [14 - Dispersion](./handwritten/14-Dispersion.pdf)
 
 
 ## Slides
@@ -49,3 +51,4 @@ permalink: notes/index.html
 * Lecture 24 (March 9th): EM Waves in Matter [[HTML]](./24-slides.html) [[PDF]](./24-slides.pdf)
 * Lecture 25 (March 11th): Reflection and Transmission [[HTML]](./25-slides.html) [[PDF]](./25-slides.pdf)
 * Lecture 26 (March 13th): Oblique EM Waves [[HTML]](./26-slides.html) [[PDF]](./26-slides.pdf)
+* Lecture 27 (March 16th): EM Waves and Metals [[HTML]](./27-slides.html) [[PDF]](./27-slides.pdf)

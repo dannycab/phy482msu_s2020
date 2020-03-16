@@ -5,6 +5,26 @@ permalink: calendar.html
 use_math: true
 ---
 
+### Week 11 Electromagnetic Waves in Conductors
+
+#### Quiz
+
+* Topic: Electromagnetic Waves in Matter; Transmission and Reflection
+* [Quiz Rubric](./quizrubric.html)
+
+#### Reading
+
+* Read my notes
+* Read Griffith's Chapter 9.4.1 through 9.4.3
+
+#### Notes and Homework
+
+* [Electromagnetic Waves in Conductors](./notes/handwritten/13-EM_Waves_in_Conductors.pdf)
+* [Dispersion](./notes/handwritten/14-Dispersion.pdf)
+* [Homework 10 (Due Fri. Mar. 20)](./assignments/homework10.html)
+
+---
+
 ### Week 10 Waves in Matter
 
 
