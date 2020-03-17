@@ -10,6 +10,10 @@ Virtual Clicker
 
 https://pollev.com/dannycaballe980
 
+Notes for today
+
+http://dannycaballero.info/phy482msu_s2020/notes/27-slides.html
+
 </section>
 
 <section data-markdown>
@@ -131,20 +135,5 @@ Think about the wave equation: $\nabla^2 \mathbf{E} = \mu \sigma \dfrac{\partial
 
 Note:
 * Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-What is the $\sqrt{i}$?
-
-1. -$i$
-2. $\frac{1+i}{\sqrt{2}}$
-3. -1
-4. $e^{i\pi/4}$
-5. None or more than one of these
-
-Note:
-* Correct Answer: E (B and D)
 
 </section>
