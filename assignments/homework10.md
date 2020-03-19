@@ -32,19 +32,7 @@ Sketch this function, Roughly what range of wavevectors $\Delta k$ contribute si
 
 **As usual, you will turn part 5 in using your GitHub repo**
 
-## 3. Spring constant of an atom
-
-In class we have modeled an atom as an electron with mass $m$ attached to the heavy nucleus with a spring. This atomic spring has zero equilibrium length and spring constant $k = m\omega_0$. Here we show that this model, though crude, is not crazy. Quantum mechanics tells us that in the ground state of hydrogen, the electron wave function is a spherically-symmetric cloud of charge centered on the atom. So, without too much violence to reality, we can model the electron as a uniform sphere of charge of radius $R$ = Bohr radius = 0.53 angstroms). When an external E-field is applied, the nucleus is pushed one way and the electron cloud is pushed the other way, so there is an induced dipole moment. We assume that the electron's sphere of negative charge is not distorted in shape when it is displaced. We also assume that the nucleus is so heavy that it remains stationary, while the electron cloud can oscillate about the stationary nucleus.
-
-![ecloud][ecloud]
-
-[ecloud]: ./images/hw11/electron_cloud.png
-
-1. Show that when the nucleus is displaced from the center of the electron cloud by a distance $d < R$), there is a restoring force that is proportional to $d$. Derive an expression the spring constant $k$ in this situation.
-2. Compute the value of the spring constant $k$, for the case of a hydrogen atom. Give the answer in both SI units (N/m = J/m$^2$) and in slightly more natural units of electron-volts per angstrom$^2$ (eV/Å$^2$). What is the natural frequency $f_0 = ω_0/2\pi$ (in Hz) for this mass-spring system?
-3. What is the wavelength of light that has this frequency? (Give your answer in nanometers.) What part of the spectrum does this correspond to? (Visible?, IR?, UV?, radio?, etc...)
-
-## 4. Paired Project Problem - Planning your project
+## 3. Paired Project Problem - Planning your project
 
 After reviewing the feedback you received on your project idea, work with your partner to consider the plan for the next several weeks. In doing this answer the question:
 
