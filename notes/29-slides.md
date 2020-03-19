@@ -10,6 +10,10 @@ Virtual Clicker
 
 https://pollev.com/dannycaballe980
 
+Notes for today
+
+http://dannycaballero.info/phy482msu_s2020/notes/29-slides.html
+
 </section>
 
 <section data-markdown>

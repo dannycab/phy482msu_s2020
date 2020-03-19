@@ -53,3 +53,4 @@ permalink: notes/index.html
 * Lecture 26 (March 13th): Oblique EM Waves [[HTML]](./26-slides.html) [[PDF]](./26-slides.pdf)
 * Lecture 27 (March 16th): EM Waves and Metals [[HTML]](./27-slides.html) [[PDF]](./27-slides.pdf)
 * Lecture 28 (March 18th): EM Waves in Metals [[HTML]](./28-slides.html) [[PDF]](./28-slides.pdf)
+* Lecture 29 (March 20th): Dispersion [[HTML]](./29-slides.html) [[PDF]](./29-slides.pdf)
