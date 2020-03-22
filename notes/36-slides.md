@@ -6,7 +6,7 @@ transition: slide
 
 <section data-markdown>
 
-I have seen the Eisntein summation notation before:
+I have seen the Einstein summation notation before:
 
 $$\mathbf{a}\cdot\mathbf{b} \equiv a_{\mu}b^{\mu}$$
 

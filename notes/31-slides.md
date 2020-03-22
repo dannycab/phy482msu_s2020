@@ -6,58 +6,114 @@ transition: slide
 
 <section data-markdown>
 
-An EM wave passes from air to metal, what happens to the wave in the metal?
+Consider a $S'$ frame moving with a speed $v$ in 1D with respect to a stationary frame $S$. Using your everyday intuition, write down the relationship between a position measurement $x$ and $x'$.
 
-1. It will be amplified because of free electrons
-2. It will die out over some distance
-3. It will be blocked right at the interface because there's no E field in a metal
-4. Not sure
-
-</section>
-
-<section data-markdown>
-
-We found a traveling wave solution for the conductor situation,
-
-$$\widetilde{\mathbf{E}}(\mathbf{r},t) = \widetilde{\mathbf{E}}_0e^{i(\widetilde{k}z-\omega t)}$$
-
-where $\widetilde{k} = \omega^2\mu \varepsilon + i(\omega \mu \sigma)$
-
-True (A) or False (B): This traveling wave is transverse.
-
-(C) I'm not sure.
+*Be ready to explain why this makes sense to you.*
 
 Note:
-* Correct Answer: A
-* Comes from divergence
+This is just to get them thinking about the Galilean transformation again as you will do this with gamma.
 
 </section>
 
 <section data-markdown>
-The magnetic field amplitude in a metal associated with a linearly polarized electric EM wave is:
 
-$$\widetilde{B}_0 = \left(\dfrac{k_R+ik_I}{\omega}\right)\widetilde{E}_0$$
+The Galilean transformation between $S'$ and $S$ is:
 
-True (A) or False (B): The B field is in phase with the E field.
+$$x = x' + vt$$
 
-(C) It depends!
+The Lorentz transformation will introduce a $\gamma$, where do you think it goes? And why?
+
+Note:
+This is just to get them thinking. The time will dilate and the length with contract, so where does the gamma go? It ultimately multiples both.
+</section>
+
+<section data-markdown>
+
+I'm in frame $S$, and you are in is in Frame $S'$, which moves with speed $V$ in the $+x$ direction.
+
+An object moves in the $S'$ frame in the $+x$ direction with speed $v'_x$.
+Do I measure its $x$ component of velocity to be $v_x = v'_x$?
+
+1. Yes
+2. No
+3. ???
 
 Note:
 * Correct Answer: B
+* can't be. because of time dilation and length contraction
 
 </section>
 
 <section data-markdown>
-The magnetic field amplitude in a highly conductive metal  ($\sigma \gg \varepsilon \omega$) associated with a linearly polarized electric EM wave is
 
-$$\widetilde{B}_0 = \sqrt{\dfrac{\mu \sigma}{\omega}}\dfrac{1+i}{\sqrt{2}}\widetilde{E}_0$$
-$$\widetilde{B}_0 = \sqrt{\dfrac{\sigma}{\varepsilon_0 \omega}}\dfrac{1+i}{\sqrt{2}}\dfrac{\widetilde{E}_0}{c}$$
+I'm in frame $S$, and you are in is in Frame $S'$, which moves with speed $V$ in the $+x$ direction.
 
-True (A) or False (B): The B field is in phase with the E field.
+An object moves in the $S'$ frame in the $+y$ direction with speed $v'_y$.
+Do I measure its $y$ component of velocity to be $v_y = v'_y$?
 
-(C) It depends!
+1. Yes
+2. No
+3. ???
 
 Note:
 * Correct Answer: B
+* again. can't be. because of time dilation and length contraction
 
+</section>
+
+<section data-markdown>
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $v$ is very small compared to $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: D
+* denominator goes to 1 because second term is near zero - get back classical addition
+</section>
+
+<section data-markdown>
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $u'$ is $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: B
+* plug it in and you will get c; if something moves with c it does so in every frame - constant speed of light
+</section>
+
+<section data-markdown>
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $v$ is $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: B
+* if frame moves at c, all things move at c
 </section>
