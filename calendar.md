@@ -17,7 +17,7 @@ use_math: true
 * [Introduction to Special Relativity](./notes/handwritten/15-Introduction_to_Special_Relativity.pdf)
 * [Particle Decay](./notes/handwritten/16-Particle_Decay.pdf)
 * [Lorentz Transformation](./notes/handwritten/17-Lorentz_Transformation.pdf)
-* [Homework 11 (Due Fri. Apr. 3)](./assignments/homework11.html)
+* [Homework 11 (Due Fri. Mar. 27)](./assignments/homework11.html)
 
 ---
 

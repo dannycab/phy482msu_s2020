@@ -1,7 +1,7 @@
 ---
 layout: homework
 use_math: true
-title: Homework 11 (Due. Apr. 3)
+title: Homework 11 (Due. Mar. 27)
 ---
 
 ## 1. Star Wars with relativity
@@ -33,12 +33,3 @@ A group of $\pi$ mesons (pions) are observed to be traveling at $u' = 0.8c$ in a
 5. What would the answer to part 4 be if there were no time dilation (i.e., $\Delta \tau = \Delta t'$)?
 6. How long does the distance of 36 meters in the laboratory frame appear to the pions in their rest frame?
 7. Use the result from part 6 and the proper time elapsed (as calculated in the rest frame of the pions) to find the velocity of the laboratory frame, as calculated in the rest frame of the pions.
-
-
-## 4. Paired Project Problem
-
-1. Read the feedback that you received on your plan and think about how you and your partner are going to work through your new plan.
-2. Project work - Provide a detailed explanation of the models and theoretical calculations needed to set up your work. The produce that you produce for this should be presented as a "graphic" that would appear in a poster under "background or model."
-3. Self-reflection - Think about how the project is going and how you are both contributing. Write out a document for the last couple of weeks worth of work including this one that describes: Who did what? Hoes does it feel like the contributions for the members of your pair are equal? Regarding the project specifically, what questions do you need to answer to continue to move forward and what help do you need from me or others?
-
-You will turn in both your "graphic" and your self-reflection using the same GitHub repository you started for Project 2. **Make sure that you sync your repository first to get the new feedback!**
