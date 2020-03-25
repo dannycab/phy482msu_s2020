@@ -58,3 +58,4 @@ permalink: notes/index.html
 * Lecture 28 (March 18th): EM Waves in Metals [[HTML]](./28-slides.html) [[PDF]](./28-slides.pdf)
 * Lecture 29 (March 20th): Dispersion [[HTML]](./29-slides.html) [[PDF]](./29-slides.pdf)
 * Lecture 30 (March 23rd): Introduction to Special Relativity [[HTML]](./30-slides.html) [[PDF]](./30-slides.pdf)
+* Lecture 30 (March 25th): Introduction to Special Relativity II [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
