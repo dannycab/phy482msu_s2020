@@ -24,6 +24,8 @@ permalink: notes/index.html
 * [15 - Introduction to Special Relativity](./handwritten/15-Introduction_to_Special_Relativity.pdf)
 * [16 - Particle Decay](./handwritten/16-Particle_Decay.pdf)
 * [17 - Lorentz Transformation](./handwritten/17-Lorentz_Transformation.pdf)
+* [18 - Four vectors](./handwritten/18-Four_vectors.pdf)
+* [19 - Minkowski Diagrams](./handwritten/19-Minkowski_Diagrams.pdf)
 
 
 ## Slides
@@ -58,4 +60,6 @@ permalink: notes/index.html
 * Lecture 28 (March 18th): EM Waves in Metals [[HTML]](./28-slides.html) [[PDF]](./28-slides.pdf)
 * Lecture 29 (March 20th): Dispersion [[HTML]](./29-slides.html) [[PDF]](./29-slides.pdf)
 * Lecture 30 (March 23rd): Introduction to Special Relativity [[HTML]](./30-slides.html) [[PDF]](./30-slides.pdf)
-* Lecture 30 (March 25th): Introduction to Special Relativity II [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
+* Lecture 31 (March 25th): Introduction to Special Relativity II [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
+* March 27th: Cancelled (DC ill)
+* Lecture 32 (March 30th): Particle Decay and Lorentz Transformations [[HTML]](./32-slides.html) [[PDF]](./32-slides.pdf)
