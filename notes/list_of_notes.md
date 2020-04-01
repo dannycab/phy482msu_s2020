@@ -63,3 +63,4 @@ permalink: notes/index.html
 * Lecture 31 (March 25th): Introduction to Special Relativity II [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
 * March 27th: Cancelled (DC ill)
 * Lecture 32 (March 30th): Particle Decay and Lorentz Transformations [[HTML]](./32-slides.html) [[PDF]](./32-slides.pdf)
+* Lecture 33 (April 1st): Velocity Addition; Four Vectors [[HTML]](./33-slides.html) [[PDF]](./33-slides.pdf)

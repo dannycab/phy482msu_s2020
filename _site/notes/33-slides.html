@@ -54,83 +54,127 @@
       <div class="slides">
         <section data-markdown="">
 
-Two major results of special relativity are Time Dilation and Lorentz Contraction. Please pick one of the choices below which best describes how well you feel you understand them.
-
-1. No idea what these effects are
-2. I remember having heard about these, but couldn't define them precisely right now.
-3. I know what these effects are, (but I've forgotten how to derive them)
-4. I know what these effects are, and I even sort of remember the derivation, but it would take me a while to sort it out
-5. I'm confident I could derive these results right now
+## Announcements
+* What's left?
+  * Quiz 7 (Due Apr. 20)
+  * Homework 13 (Due Apr. 20)
+  * If we finish early, we finish early.
 
 </section>
 
 <section data-markdown="">
 
-You are standing next to a conveyer belt that is transporting a baby (don't ask questions) at 1 m/s **to the right**. The baby is crawling at **2 m/s to the right**. What is the velocity of the baby in your frame?
+With Einstein's velocity addition rule,
 
-1. 1 m/s to the left
-2. 1 m/s to the right
-3. 3 m/s to the right
-4. 3 m/s to the left
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $v$ is very small compared to $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
 5. Something else
 
 Note:
-* Correct Answer: C
-
+* Correct Answer: D
+* denominator goes to 1 because second term is near zero - get back classical addition
 </section>
 
 <section data-markdown="">
 
-You are standing next to a conveyer belt that is transporting a baby (don't ask questions) at **1 m/s to the right**. The baby is crawling at **2 m/s to the left**. What is the velocity of the baby in your frame?
+With Einstein's velocity addition rule,
 
-1. 1 m/s to the left
-2. 1 m/s to the right
-3. 3 m/s to the right
-4. 3 m/s to the left
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $u'$ is $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
 5. Something else
 
 Note:
+* Correct Answer: B
+* plug it in and you will get c; if something moves with c it does so in every frame - constant speed of light
+</section>
+
+<section data-markdown="">
+
+With Einstein's velocity addition rule,
+
+$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
+
+what happens when $v$ is $c$?
+
+1. $u\rightarrow 0$
+2. $u\rightarrow c$
+3. $u\rightarrow \infty$
+4. $u \approx u' + v$
+5. Something else
+
+Note:
+* Correct Answer: B
+* if frame moves at c, all things move at c
+</section>
+
+<section data-markdown="">
+
+I have seen the Einstein summation notation before:
+
+$$\mathbf{a}\cdot\mathbf{b} \equiv a_{\mu}b^{\mu}$$
+
+1. Yes and I'm comfortable with it
+2. Yes, but I'm just a little rusty with it
+3. Yes, but I don't remember it it all
+3. Nope
+
+</section>
+
+<section data-markdown="">
+
+**True or False:** The dot product (in 3 space) is invariant to rotations.
+
+$$\mathbf{a}\cdot\mathbf{b} \equiv a_{\mu}b^{\mu}$$
+
+1. True
+2. False
+3. No idea
+
+Note:
+* Correct answer: A (when Galilean relativity is ok)
+
+</section>
+
+<section data-markdown="">
+
+Displacement is a defined quantity
+
+$$\Delta x^{\mu} \equiv \left(x^{\mu}_A - x^{\mu}_B\right)$$
+
+Is the displacement a contravariant 4-vector?
+
+1. Yes
+2. No
+3. Umm...don't know how to tell
+4. None of these.
+
+**Be ready to explain your answer.**
+
+Note:
 * Correct Answer: A
 
 </section>
 
 <section data-markdown="">
 
-## Demo
+The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
 
-[Galilean relativity example courtesy of Jamiroquai](https://www.youtube.com/watch?v=4JkIs37a2JE)
+Is $5 \Delta x^{\mu}$ also a 4-vector?
 
-</section>
-
-<section data-markdown="">
-
-Standing on a moving walkway in the airport that is moving at 1 m/s to the right, you toss a ball into the air. You observe the ball moving straight up and down.
-
-I'm sitting on a bench watching your shenanigans. What do I have to do to make my physics match yours? That is, what do I have to do to reproduce all your measurements?
-
-1. Add 1 m/s to the left
-2. Add 1 m/s to the right
-3. Subtract 1 m/s to the right
-4. Subtract 1 m/s to the left
-5. None or more than one of these
-
-Note:
-* Correct Answer: E (it's A and C)
-
-</section>
-
-<section data-markdown="">
-
-A rocket is moving to the right at speed $v = (3/4)c$, relative to Earth.  On the  front of the rocket is a headlight which emits a flash of light.
-
-&lt;img src="./images/rocket_light.png" align="center" style="width: 700px";/&gt;
-
-In the reference frame of a passenger on the rocket, the speed of the light flash is
-
-1. $c$
-2. 7/4 $c$
-3. 1/4 $c$
-4. None of these
+1. Yes
+2. No
 
 Note:
 * Correct Answer: A
@@ -139,34 +183,26 @@ Note:
 
 <section data-markdown="">
 
-A rocket is moving to the right at speed $v = (3/4)c$, relative to Earth.  On the  front of the rocket is a headlight which emits a flash of light.
+The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
 
-&lt;img src="./images/rocket_light.png" align="center" style="width: 700px";/&gt;
+Is $\Delta x^{\mu}/\Delta t$ also a 4-vector (where $\Delta t$ is the time between in events in some frame)?
 
-According to a person at rest on the earth, the speed of the light flash is
-
-1. $c$
-2. 7/4 $c$
-3. 1/4 $c$
-4. None of these
+1. Yes
+2. No
 
 Note:
-* Correct Answer: A
+* Correct Answer: B
 
 </section>
 
 <section data-markdown="">
 
-A rocket is moving to the right at speed $v = (3/4)c$, relative to Earth.  On the  front of the rocket is a headlight which emits a flash of light.
+The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
 
-&lt;img src="./images/rocket_light.png" align="center" style="width: 700px";/&gt;
+Is $\Delta x^{\mu}/\Delta \tau$ also a 4-vector (where $\Delta \tau$ is the proper time)?
 
-According to a person moving toward the rocket at speed $(3/4)c$, relative to earth, the speed of the light flash is
-
-1. $c$
-2. 7/4 $c$
-3. 1/4 $c$
-4. None of these
+1. Yes
+2. No
 
 Note:
 * Correct Answer: A
