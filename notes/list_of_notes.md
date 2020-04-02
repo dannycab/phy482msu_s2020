@@ -26,6 +26,8 @@ permalink: notes/index.html
 * [17 - Lorentz Transformation](./handwritten/17-Lorentz_Transformation.pdf)
 * [18 - Four vectors](./handwritten/18-Four_vectors.pdf)
 * [19 - Minkowski Diagrams](./handwritten/19-Minkowski_Diagrams.pdf)
+* [20 - Relativistic Energy and Momentum](./handwritten/20-Relatvisitic_Energy_and_Momentum.pdf)
+* [21 - Relativistic E&M](./handwritten/21-Relativistic_EM.pdf)
 
 
 ## Slides
@@ -63,4 +65,5 @@ permalink: notes/index.html
 * Lecture 31 (March 25th): Introduction to Special Relativity II [[HTML]](./31-slides.html) [[PDF]](./31-slides.pdf)
 * March 27th: Cancelled (DC ill)
 * Lecture 32 (March 30th): Particle Decay and Lorentz Transformations [[HTML]](./32-slides.html) [[PDF]](./32-slides.pdf)
-* Lecture 33 (April 1st): Velocity Addition; Four Vectors [[HTML]](./33-slides.html) [[PDF]](./33-slides.pdf)
+* Lecture 33 (April 1st): Velocity Addition; Intro to Four Vectors [[HTML]](./33-slides.html) [[PDF]](./33-slides.pdf)
+* Lecture 34 (April 3rd): Four Vectors [[HTML]](./34-slides.html) [[PDF]](./34-slides.pdf)

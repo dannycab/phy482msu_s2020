@@ -7,46 +7,12 @@ transition: slide
 
 <section data-markdown>
 
-In the moving frame $K'$ (moving with velocity $+v$ in the $x$ direction), we make a measurement that an object is at a location $x_0'$, what is the location $x_0$ of the object in the rest frame $K$? Use the Galilean transformation for now.
+The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
 
-1. $x_0 = x_0' + vt$
-2. $x_0 = x_0' - vt$
-3. I'm confused
+Is $\Delta x^{\mu}/\Delta t$ also a 4-vector (where $\Delta t$ is the time between in events in some frame)?
 
-_Hint: Yours truly got it wrong yesterday!_
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-<img src="./images/lucy_and_ricky_1.png" align="center" style="width: 500px";/>
-
-
-Two firecrackers explode. Lucy, halfway between the firecrackers, sees them explode at the same time. Ricky (same reference frame as Lucy) is next to firecracker 2. According to Ricky, which firecracker explodes first?
-
-1. Both explode at the same time
-2. Firecracker 1 explodes first
-3. Firecracker 2 explodes first
-
-*Hint: Separate what Ricky "sees" from what he would observe.*
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-<img src="./images/light_clock.png" align="center" style="width: 700px";/>
-
-In which frame of reference is the time between tics of the clock **longer**?
-
-1. Rest frame of clock
-2. moving frame
-3. no difference
+1. Yes
+2. No
 
 Note:
 * Correct Answer: B
@@ -55,15 +21,12 @@ Note:
 
 <section data-markdown>
 
-<img src="./images/light_clock.png" align="center" style="width: 700px";/>
+The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
 
-What is the **minimum** number of observers needed in the **rest frame** to measure the "tic"?
+Is $\Delta x^{\mu}/\Delta \tau$ also a 4-vector (where $\Delta \tau$ is the proper time)?
 
-1. 1
-2. 2
-3. 3
-4. More than 3
-5. ???
+1. Yes
+2. No
 
 Note:
 * Correct Answer: A
@@ -72,110 +35,83 @@ Note:
 
 <section data-markdown>
 
-<img src="./images/light_clock.png" align="center" style="width: 700px";/>
+Velocity is a defined quantity:
 
-What is the **minimum** number of observers needed in the **moving frame** to measure the "tic"?
+$$\mathbf{u}=\dfrac{\Delta\mathbf{r}}{\Delta t} = \langle \dfrac{\Delta x}{\Delta t},\dfrac{\Delta y}{\Delta t},\dfrac{\Delta z}{\Delta t}\rangle$$
 
-1. 1
-2. 2
-3. 3
-4. More than 3
-5. ???
+In another inertial frame, seen to be moving to the right, parallel to x, observers see:
 
-Note:
-* Correct Answer: B
+$$\mathbf{u'}=\dfrac{\Delta\mathbf{r'}}{\Delta t'} = \langle \dfrac{\Delta x'}{\Delta t'},\dfrac{\Delta y'}{\Delta t'},\dfrac{\Delta z'}{\Delta t'}\rangle$$
 
-</section>
-
-<section data-markdown>
-
-I have a stick of length $L$ sitting in front of me. In the reference frame of a passing train, (moving parallel to the stick) what is the measured length of the stick?
-
-1. $L$
-2. $\gamma L$
-3. $L/\gamma$
-4. I'm sure it's B or C, but not sure which one
-5. It depends
-
-Note:
-* Correct Answer: C
-
-</section>
-
-<section data-markdown>
-
-In particle decay the rate of decay is proportional to the number of particles left,
-
-$$\dfrac{dN}{dt} = -\lambda N$$
-
-If we start with $N_0$ particles, what's the fraction of remaning particles in a time $\Delta t$?
-
-1. $N_0 e^{-\lambda \Delta t}$
-2. $N_0 e^{+\lambda \Delta t}$
-3. $N_0 e^{-\Delta t/\lambda}$
-4. $N_0 e^{+\Delta t/\lambda}$
-5. Something else
-
-Note:
-* Correct answer: E
-* It's a fraction, so it's A without the number
-</section>
-
-<section data-markdown>
-
-In a particle detection experiment, the fraction of particles detected is:
-
-1. underestimated
-2. overestimated
-3. the same as
-
-if we use the time of flight in the detector frame.
-
-Note:
-* Correct Answer: A
-
-</section>
-
-<section data-markdown>
-
-
-In our particle detection experiment, the fraction of particles detected at a given location in detector frame will be:
-
-$$e^{-\lambda \Delta t}$$
-
-What is $\Delta t$ in this case?
-
-1. The time to traverse from the source to the detector
-2. The time observed on the clock on the wall
-3. The time observed by the particles in their frame
-4. None of these
-5. More than one of these
-
-Note:
-* Correct answer: E? Definitely C, but could be A
-
-</section>
-
-<section data-markdown>
-
-Is the time interval ($\Delta t$) between two events Lorentz invariant?
-
+Is velocity a 4-vector?
 1. Yes
 2. No
 
 Note:
 * Correct answer: B
+</section>
+
+<section data-markdown>
+
+Which of the following equations is the correct way to write out the Lorentz scalar product?
+
+1. $a \cdot b = -a^0b^0 + a^1b^1 + a^2b^2 + a^3b^3$
+2. $a \cdot b = a_0b^0 + a_1b^1 + a_2b^2 + a_3b^3$
+3. $a \cdot b = a_{\nu}b^{\nu}$
+4. None of these
+5. All three are correct
+
+Note:
+* Correct Answer: E
 
 </section>
 
 <section data-markdown>
 
-Is the proper time interval ($\Delta \tau = \dfrac{\Delta t}{\gamma}$) between two events Lorentz invariant?
+Imagine this quantity:
 
-1. Yes
-2. No
+$$u^{\mu} \equiv \begin{pmatrix}c\\\ \frac{\Delta x}{\Delta t}\\\ \frac{\Delta y}{\Delta t}\\\ \frac{\Delta z}{\Delta t}\end{pmatrix}
+$$
+
+Is this quantity a 4-vector?
+
+1. Yes, and I can say why.
+2. No, and I can say why.
+3. None of the above.
+
+Note:
+* Correct answer: B
+</section>
+
+<section data-markdown>
+
+Imagine this quantity:
+
+$$\eta^{\mu} \equiv \frac{1}{\Delta \tau}\begin{pmatrix}ct\\\ \Delta x\\\ \Delta y\\\ \Delta z\end{pmatrix}
+$$
+
+Is this quantity a 4-vector?
+
+1. Yes, and I can say why.
+2. No, and I can say why.
+3. None of the above.
 
 Note:
 * Correct answer: A
+</section>
+
+<section data-markdown>
+
+In my frame ($S$) I measure two events which occur at the same place, but different times $t_1$ and $t_2$ (they are NOT simultaneous)
+
+Might you (in frame $S'$) measure those SAME two events to occur simultaneously in your frame?
+
+1. Possibly, if I'm in the right frame!
+2. Not a chance
+3. Definitely need more info!
+4. ???
+
+Note:
+* Correct Answer: B
 
 </section>

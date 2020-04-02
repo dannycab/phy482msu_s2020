@@ -134,31 +134,3 @@ Note:
 * Correct Answer: A
 
 </section>
-
-<section data-markdown>
-
-The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
-
-Is $\Delta x^{\mu}/\Delta t$ also a 4-vector (where $\Delta t$ is the time between in events in some frame)?
-
-1. Yes
-2. No
-
-Note:
-* Correct Answer: B
-
-</section>
-
-<section data-markdown>
-
-The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
-
-Is $\Delta x^{\mu}/\Delta \tau$ also a 4-vector (where $\Delta \tau$ is the proper time)?
-
-1. Yes
-2. No
-
-Note:
-* Correct Answer: A
-
-</section>
