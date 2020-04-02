@@ -22,6 +22,12 @@ use_math: true
 
 ### Week 13 Mathematical Foundations of Special Relativity
 
+#### Quiz 6 (Due Apr. 6)
+
+* Topic: Special Relativity
+  * Use special relativity to investigate the effects of particle detection, or
+  * Compare two events observed from different frames
+
 #### Reading
 
 * Read my notes
@@ -53,7 +59,7 @@ use_math: true
 
 ### Week 11 Electromagnetic Waves in Conductors
 
-#### Quiz
+#### Quiz (Due Mar. 20)
 
 * Topic: Electromagnetic Waves in Matter; Transmission and Reflection
 * [Quiz Rubric](./quizrubric.html)
