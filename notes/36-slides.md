@@ -6,60 +6,13 @@ transition: slide
 
 <section data-markdown>
 
-I have seen the Einstein summation notation before:
+Is this "4-velocity" a contravariant 4-vector?
 
-$$\mathbf{a}\cdot\mathbf{b} \equiv a_{\mu}b^{\mu}$$
-
-1. Yes and I'm comfortable with it
-2. Yes, but I'm just a little rusty with it
-3. Yes, but I don't remember it it all
-3. Nope
-
-</section>
-
-<section data-markdown>
-
-## Announcements
-* Poster printing (Free!)
-  * Send your poster (PDF or PPT) to coeprint@msu.edu
-  * Tell them you are in PHY 482
-  * Make sure to give a couple of days for the print! (No weekends)
-* Last Quiz (this Friday)
-  * Use special relativity to investigate the effects of particle detection
-  * Compare two events observed from different frames
-
-</section>
-
-<section data-markdown>
-
-**True or False:** The dot product (in 3 space) is invariant to rotations.
-
-$$\mathbf{a}\cdot\mathbf{b} \equiv a_{\mu}b^{\mu}$$
-
-1. True
-2. False
-3. No idea
-
-Note:
-* Correct answer: A (when Galilean relativity is ok)
-
-</section>
-
-
-<section data-markdown>
-
-Displacement is a defined quantity
-
-$$\Delta x^{\mu} \equiv \left(x^{\mu}_A - x^{\mu}_B\right)$$
-
-Is the displacement a contravariant 4-vector?
+$$\eta^{\mu} \equiv \dfrac{dx^{\mu}}{d\tau}$$
 
 1. Yes
 2. No
-3. Umm...don't know how to tell
-4. None of these.
-
-**Be ready to explain your answer.**
+3. I don't know how to tell
 
 Note:
 * Correct Answer: A
@@ -68,12 +21,13 @@ Note:
 
 <section data-markdown>
 
-The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
+What is $\dfrac{dt}{d\tau}$?
 
-Is $5 \Delta x^{\mu}$ also a 4-vector?
-
-1. Yes
-2. No
+1. $\gamma$
+2. $1/\gamma$
+3. $\gamma^2$
+4. $1/\gamma^2$
+5. Something else
 
 Note:
 * Correct Answer: A
@@ -82,12 +36,33 @@ Note:
 
 <section data-markdown>
 
-The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
+With $\eta^0 = c\gamma$ and $\vec{\eta}=\gamma\vec{u}$, what is the square of $\eta$?
 
-Is $\Delta x^{\mu}/\Delta t$ also a 4-vector (where $\Delta t$ is the time between in events in some frame)?
+$$\eta^2 \equiv \eta \cdot \eta = \eta_{\mu}\eta^{\mu}$$
 
-1. Yes
-2. No
+1. c^2
+2. u^2
+3. -c^2
+4. -u^2
+5. Something else
+
+Note:
+* Correct Answer: C
+
+</section>
+
+<section data-markdown>
+
+The momentum vector $\vec{p}$ is given by,
+
+$$\vec{p} = \dfrac{m\vec{u}}{\sqrt{1-u^2/c^2}}$$
+
+What is $|\vec{p}|$ as $u$ approaches zero?
+
+1. zero
+2. $m\,u$
+3. $m\,c$
+4. Something else
 
 Note:
 * Correct Answer: B
@@ -96,14 +71,84 @@ Note:
 
 <section data-markdown>
 
-The displacement between two events $\Delta x^{\mu}$ is a contravariant 4-vector.
+Are energy and rest mass Lorentz invariants?
 
-Is $\Delta x^{\mu}/\Delta \tau$ also a 4-vector (where $\Delta \tau$ is the proper time)?
+1. Both energy and mass are invariants
+2. Only energy is an invariant
+3. Only rest mass is an invariant
+4. Neither energy or mass are invariants
 
-1. Yes
-2. No
+</section>
+
+<section data-markdown>
+
+$$E-E_{rest} = (\gamma - 1) mc^2$$
+
+What happens to the difference in the total and rest energies when the particle speed ($u$) is much smaller than $c$?
+
+1. It goes to zero
+2. It goes to $m\,c^2$
+3. It goes to $1/2\,m\,u^2$
+4. It depends
 
 Note:
-* Correct Answer: A
+* Correct answer: C
+
+</section>
+
+<section data-markdown>
+
+What's $p_{\mu} p^{\mu}$?
+
+1. $\gamma mc^2$
+2. -$\gamma mc^2$
+3. $mc^2$
+4. -$mc^2$
+5. Something else
+
+Note:
+* Correct answer: D
+
+</section>
+
+<section data-markdown>
+
+$E_{tot}$ is conserved but not invariant. What does that mean?
+
+1. It's the same at any time in every reference frame.
+2. It's the same at a given time in every reference frame.
+3. It's the same at any time in a given reference frame.
+4. Something else
+
+Note:
+* Correct answer: C
+
+</section>
+
+<section data-markdown>
+
+$m$ is invariant but not conserved. What does that mean?
+
+1. It's the same at any time in every reference frame.
+2. It's the same at a given time in every reference frame.
+3. It's the same at any time in a given reference frame.
+4. Something else
+
+Note:
+* Correct answer: B
+
+</section>
+
+<section data-markdown>
+
+Charge is invariant and conserved. What does that mean?
+
+1. It's the same at any time in every reference frame.
+2. It's the same at a given time in every reference frame.
+3. It's the same at any time in a given reference frame.
+4. Something else
+
+Note:
+* Correct answer: A
 
 </section>

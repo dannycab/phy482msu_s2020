@@ -67,3 +67,7 @@ permalink: notes/index.html
 * Lecture 32 (March 30th): Particle Decay and Lorentz Transformations [[HTML]](./32-slides.html) [[PDF]](./32-slides.pdf)
 * Lecture 33 (April 1st): Velocity Addition; Intro to Four Vectors [[HTML]](./33-slides.html) [[PDF]](./33-slides.pdf)
 * Lecture 34 (April 3rd): Four Vectors [[HTML]](./34-slides.html) [[PDF]](./34-slides.pdf)
+* Lecture 35 (April 6th): Minkowski Diagrams [[HTML]](./35-slides.html) [[PDF]](./35-slides.pdf)
+* Lecture 36 (April 8th): Relativistic Momentum and Energy [[HTML]](./36-slides.html) [[PDF]](./36-slides.pdf)
+* Lecture 37 (April 10th): Relativistic E&M [[HTML]](./37-slides.html) [[PDF]](./37-slides.pdf)
+* Lecture 38 (April 13th): Final Remarks [[HTML]](./38-slides.html) [[PDF]](./38-slides.pdf)

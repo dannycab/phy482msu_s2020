@@ -6,37 +6,33 @@ transition: slide
 
 <section data-markdown>
 
-**TRUE or FALSE:** For any trajectory in a "1+1"-dimensional Minkowski diagram, the slope can be **no greater** than 1.
+Minkowski suggested a better way to write $K^{\mu}$ is in terms of the field tensor, $F^{\mu\nu}$,
 
-1. True
-2. False
+$$K^{\mu} = \dfrac{dp^{\mu}}{d\tau} = q\eta_{\nu}F^{\mu\nu}$$
+
+What are the units of the components of the field tensor?
+
+1. ${\frac{N}{m}}$
+2. ${T}$
+3. ${\frac{Ns}{Cm}}$
+4. ${\frac{V}{m}}$
+5. None or more than one of these
 
 Note:
-* Correct Answer: B
-* Has to be greater than 1
-
+* Correct Answer: E (it's B and C)
 </section>
 
 <section data-markdown>
 
-Two events have a timelike separation. In a "1+1"-dimensional spacetime (Minkowski) diagram (x horizontal, ct vertical), the magnitude of the slope of a line connecting the two events is
+<img src="./images/capacitor_S_Sbar.png" align="right" style="width: 600px";/>
 
-1. Greater than 1
-2. Equal to 1
-3. Less than 1
+Switch from frame $S$ to frame $\bar{S}$:
 
-Note:
-* Correct Answer: A
+How does $E_x$ compare to $\bar{E}_x$?
 
-</section>
-
-<section data-markdown>
-
-Consider the world line of an object drawn on a Minkowski (space-time) diagram. At any point in that space, the slope of that line is:
-
-1. larger than 1
-2. less than 1
-3. able to take on any value
+1. $\bar{E}_x = E_x$
+2. $\bar{E}_x > E_x$
+3. $\bar{E}_x < E_x$
 
 Note:
 * Correct answer: A
@@ -45,13 +41,16 @@ Note:
 
 <section data-markdown>
 
-Points that lie outside the light cone for a given event are:
+Consider the equation
 
-1. accessible no matter where they are
-2. accessible for given world lines (trajectories)
-3. always inaccessible
+$$\dfrac{\partial G^{\mu \nu}}{\partial x^{\nu}} = 0$$
 
-Note:
-* Correct answer: C
+How many ordinary equations is that really?
+
+1. 1
+2. 4
+3. 6
+4. 16
+5. ????
 
 </section>

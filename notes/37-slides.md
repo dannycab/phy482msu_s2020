@@ -7,83 +7,105 @@ transition: slide
 
 <section data-markdown>
 
-Velocity is a defined quantity:
+Do you see a problem do you see with $\mathbf{F} = \dfrac{d\mathbf{p}}{dt}$ with regard to relativity? We still define $\mathbf{p} \equiv \gamma m\mathbf{v}$.
 
-$$\mathbf{u}=\dfrac{\Delta\mathbf{r}}{\Delta t} = \langle \dfrac{\Delta x}{\Delta t},\dfrac{\Delta y}{\Delta t},\dfrac{\Delta z}{\Delta t}\rangle$$
+1. There's no problem at all
+2. Yup there's a problem, and I know what it is.
+3. There's probably a problem, but I don't know what it is.
 
-In another inertial frame, seen to be moving to the right, parallel to x, observers see:
+</section>
 
-$$\mathbf{u'}=\dfrac{\Delta\mathbf{r'}}{\Delta t'} = \langle \dfrac{\Delta x'}{\Delta t'},\dfrac{\Delta y'}{\Delta t'},\dfrac{\Delta z'}{\Delta t'}\rangle$$
+<section data-markdown>
 
-Is velocity a 4-vector?
+Can we define a 4-force via the 4-momentum?
+
+$$\dfrac{dp^{\mu}}{d\tau} = K^{\mu}$$
+
+Is $K^{\mu}$, so defined, a 4-vector?
+
+1. Yes, and I can say why.
+2. No, and I can say why.
+3. None of the above.
+
+Note:
+* Correct Answer: A
+
+</section>
+
+<section data-markdown>
+
+To match the behavior of non-relativistic classical mechanics, we might tentatively assign which of the following values to $\mathbf{K} = K^{1,2,3}$:
+
+1. $\mathbf{K} = \mathbf{F}$
+2. $\mathbf{K} = \mathbf{F}/\gamma$
+3. $\mathbf{K} = \gamma\mathbf{F}$
+4. Something else
+
+Note:
+* Correct Answer: C
+
+</section>
+
+<section data-markdown>
+
+A charge $q$ is moving with velocity $\mathbf{u}$ in a uniform magnetic field $\mathbf{B}$.
+
+$$\mathbf{F} = q\mathbf{u}\times\mathbf{B} = m\mathbf{a}$$
+
+If we switch to a different Galilean frame (a low speed Lorentz transform), is the acceleration $\mathbf{a}$ different?
+
 1. Yes
 2. No
 
 Note:
 * Correct answer: B
-</section>
-
-<section data-markdown>
-
-Which of the following equations is the correct way to write out the Lorentz scalar product?
-
-1. $a \cdot b = -a^0b^0 + a^1b^1 + a^2b^2 + a^3b^3$
-2. $a \cdot b = a_0b^0 + a_1b^1 + a_2b^2 + a_3b^3$
-3. $a \cdot b = a_{\nu}b^{\nu}$
-4. None of these
-5. All three are correct
-
-Note:
-* Correct Answer: E
 
 </section>
 
 <section data-markdown>
 
-Imagine this quantity:
+A charge $q$ is moving with velocity $\mathbf{u}$ in a uniform magnetic field $\mathbf{B}$.
 
-$$u^{\mu} \equiv \begin{pmatrix}c\\\ \frac{\Delta x}{\Delta t}\\\ \frac{\Delta y}{\Delta t}\\\ \frac{\Delta z}{\Delta t}\end{pmatrix}
-$$
+$$\mathbf{F} = q\mathbf{u}\times\mathbf{B} = m\mathbf{a}$$
 
-Is this quantity a 4-vector?
+If we switch to a different Galilean frame (a low speed Lorentz transform), is the particle velocity $\mathbf{u}$ different?
 
-1. Yes, and I can say why.
-2. No, and I can say why.
-3. None of the above.
-
-Note:
-* Correct answer: B
-</section>
-
-<section data-markdown>
-
-Imagine this quantity:
-
-$$\eta^{\mu} \equiv \frac{1}{\Delta \tau}\begin{pmatrix}ct\\\ \Delta x\\\ \Delta y\\\ \Delta z\end{pmatrix}
-$$
-
-Is this quantity a 4-vector?
-
-1. Yes, and I can say why.
-2. No, and I can say why.
-3. None of the above.
+1. Yes
+2. No
 
 Note:
 * Correct answer: A
+
 </section>
 
 <section data-markdown>
 
-In my frame ($S$) I measure two events which occur at the same place, but different times $t_1$ and $t_2$ (they are NOT simultaneous)
+A charge $q$ is moving with velocity $\mathbf{u}$ in a uniform magnetic field $\mathbf{B}$.
 
-Might you (in frame $S'$) measure those SAME two events to occur simultaneously in your frame?
+$$\mathbf{F} = q\mathbf{u}\times\mathbf{B} = m\mathbf{a}$$
 
-1. Possibly, if I'm in the right frame!
-2. Not a chance
-3. Definitely need more info!
-4. ???
+If we switch to a different Galilean frame (a low speed Lorentz transform), is the magnetic field $\mathbf{B}$ different?
+
+1. Yes
+2. No
 
 Note:
-* Correct Answer: B
+* Correct answer: A
 
+</section>
+
+<section data-markdown>
+
+A charge $q$ is moving with velocity $\mathbf{u}$ in a uniform magnetic field $\mathbf{B}$.
+
+$$\mathbf{F} = q\mathbf{u}\times\mathbf{B} = m\mathbf{a}$$
+
+Suppose we switch to frame with $\mathbf{v} = \mathbf{u}$, so that in the primed frame, $\mathbf{u}’ = 0$ (the particle is instantaneously at rest). Does the particle feel a force from an E-field in this frame?
+
+1. Yes
+2. No
+3. depends on details
+
+Note:
+* Correct answer: A
 </section>

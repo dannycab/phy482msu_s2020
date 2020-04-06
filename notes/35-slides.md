@@ -4,116 +4,104 @@ theme: white
 transition: slide
 ---
 
+
 <section data-markdown>
 
-Consider a $S'$ frame moving with a speed $v$ in 1D with respect to a stationary frame $S$. Using your everyday intuition, write down the relationship between a position measurement $x$ and $x'$.
+In my frame ($S$) I measure two events which occur at the same place, but different times $t_1$ and $t_2$ (they are NOT simultaneous)
 
-*Be ready to explain why this makes sense to you.*
+Might you (in frame $S'$) measure those SAME two events to occur simultaneously in your frame?
+
+1. Possibly, if I'm in the right frame!
+2. Not a chance
+3. Definitely need more info!
+4. ???
 
 Note:
-This is just to get them thinking about the Galilean transformation again as you will do this with gamma.
+* Correct Answer: B
 
 </section>
 
 <section data-markdown>
 
-The Galilean transformation between $S'$ and $S$ is:
+**TRUE or FALSE:** For any trajectory in a "1+1"-dimensional Minkowski diagram, the slope can be **no greater** than 1.
 
-$$x = x' + vt$$
-
-The Lorentz transformation will introduce a $\gamma$, where do you think it goes? And why?
+1. True
+2. False
 
 Note:
-This is just to get them thinking. The time will dilate and the length with contract, so where does the gamma go? It ultimately multiples both.
+* Correct Answer: B
+* Has to be greater than 1
+
 </section>
 
 <section data-markdown>
 
-I'm in frame $S$, and you are in is in Frame $S'$, which moves with speed $V$ in the $+x$ direction.
+Two events have a timelike separation. In a "1+1"-dimensional spacetime (Minkowski) diagram (x horizontal, ct vertical), the magnitude of the slope of a line connecting the two events is
 
-An object moves in the $S'$ frame in the $+x$ direction with speed $v'_x$.
-Do I measure its $x$ component of velocity to be $v_x = v'_x$?
+1. Greater than 1
+2. Equal to 1
+3. Less than 1
+
+Note:
+* Correct Answer: A
+
+</section>
+
+<section data-markdown>
+
+Consider the world line of an object drawn on a Minkowski (space-time) diagram. At any point in that space, the slope of that line is:
+
+1. larger than 1
+2. less than 1
+3. able to take on any value
+
+Note:
+* Correct answer: A
+
+</section>
+
+<section data-markdown>
+
+Points that lie outside the light cone for a given event are:
+
+1. accessible no matter where they are
+2. accessible for given world lines (trajectories)
+3. always inaccessible
+
+Note:
+* Correct answer: C
+
+</section>
+
+<section data-markdown>
+
+The space time interval is defined by:
+
+$$I\equiv x^2 - c^2t^2$$
+
+Events with common space time intervals lie on a hyperbola of constant $I$.
+
+**True or False:** A Lorentz boost (change to another inertial frame) can allow you to shift between different hyperbolas.
+
+1. True
+2. False
+
+Note:
+* Correct answer: B
+
+</section>
+
+<section data-markdown>
+
+Consider the product of the speed of light and the proper time: $c\,d\tau$.
+
+Is this quantity invariant?
 
 1. Yes
 2. No
-3. ???
+3. I don't know how to tell
 
 Note:
-* Correct Answer: B
-* can't be. because of time dilation and length contraction
+* Correct Answer: A
 
-</section>
-
-<section data-markdown>
-
-I'm in frame $S$, and you are in is in Frame $S'$, which moves with speed $V$ in the $+x$ direction.
-
-An object moves in the $S'$ frame in the $+y$ direction with speed $v'_y$.
-Do I measure its $y$ component of velocity to be $v_y = v'_y$?
-
-1. Yes
-2. No
-3. ???
-
-Note:
-* Correct Answer: B
-* again. can't be. because of time dilation and length contraction
-
-</section>
-
-<section data-markdown>
-
-With Einstein's velocity addition rule,
-
-$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
-
-what happens when $v$ is very small compared to $c$?
-
-1. $u\rightarrow 0$
-2. $u\rightarrow c$
-3. $u\rightarrow \infty$
-4. $u \approx u' + v$
-5. Something else
-
-Note:
-* Correct Answer: D
-* denominator goes to 1 because second term is near zero - get back classical addition
-</section>
-
-<section data-markdown>
-
-With Einstein's velocity addition rule,
-
-$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
-
-what happens when $u'$ is $c$?
-
-1. $u\rightarrow 0$
-2. $u\rightarrow c$
-3. $u\rightarrow \infty$
-4. $u \approx u' + v$
-5. Something else
-
-Note:
-* Correct Answer: B
-* plug it in and you will get c; if something moves with c it does so in every frame - constant speed of light
-</section>
-
-<section data-markdown>
-
-With Einstein's velocity addition rule,
-
-$$u = \dfrac{u' + v}{1+\frac{u'v}{c^2}}$$
-
-what happens when $v$ is $c$?
-
-1. $u\rightarrow 0$
-2. $u\rightarrow c$
-3. $u\rightarrow \infty$
-4. $u \approx u' + v$
-5. Something else
-
-Note:
-* Correct Answer: B
-* if frame moves at c, all things move at c
 </section>

@@ -99,19 +99,3 @@ Is this quantity a 4-vector?
 Note:
 * Correct answer: A
 </section>
-
-<section data-markdown>
-
-In my frame ($S$) I measure two events which occur at the same place, but different times $t_1$ and $t_2$ (they are NOT simultaneous)
-
-Might you (in frame $S'$) measure those SAME two events to occur simultaneously in your frame?
-
-1. Possibly, if I'm in the right frame!
-2. Not a chance
-3. Definitely need more info!
-4. ???
-
-Note:
-* Correct Answer: B
-
-</section>
