@@ -6,6 +6,21 @@ transition: slide
 
 <section data-markdown>
 
+Consider the product of the speed of light and the proper time: $c\,d\tau$.
+
+Is this quantity invariant?
+
+1. Yes
+2. No
+3. I don't know how to tell
+
+Note:
+* Correct Answer: A
+
+</section>
+
+<section data-markdown>
+
 Is this "4-velocity" a contravariant 4-vector?
 
 $$\eta^{\mu} \equiv \dfrac{dx^{\mu}}{d\tau}$$
