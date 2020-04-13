@@ -6,6 +6,19 @@ transition: slide
 
 <section data-markdown>
 
+## Final Assignments
+
+* Homework 13 (Due April 20th)
+  * If you are intending to skip this one, really make time to do problem 1.
+* Quiz 7 (Due April 20th)
+  * Topic: Reflect on your greatest accomplishments this academic year.
+  * What are you proud of having done? None of them have to be physics related.
+  * Full credit for any reflection.
+
+</section>
+
+<section data-markdown>
+
 Minkowski suggested a better way to write $K^{\mu}$ is in terms of the field tensor, $F^{\mu\nu}$,
 
 $$K^{\mu} = \dfrac{dp^{\mu}}{d\tau} = q\eta_{\nu}F^{\mu\nu}$$
