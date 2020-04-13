@@ -5,6 +5,13 @@ permalink: calendar.html
 use_math: true
 ---
 
+### Week 15
+
+* Quiz 7 (Due April 20th)
+  * Topic: Reflect on your greatest accomplishments this academic year.
+  * What are you proud of having done? None of them have to be physics related.
+  * Full credit for any reflection.
+
 ### Week 14/15 Special Relativity and E&M
 
 #### Reading
